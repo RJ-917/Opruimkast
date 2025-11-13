@@ -8,13 +8,11 @@
 *13/11/2025 van de laatste update*   
 
 ## Samenvatting
-Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
+Het probleem dat dit project aanpakt, is de opvoedstress bij verse ouders met kinderen tussen de 4 en 11 jaar. Door tijdsgebrek, vermoeidheid en een overvloed aan speelgoed ervaren veel ouders frustratie in het dagelijkse gezinsleven. Kinderen hebben vaak zoveel speelgoed dat ze moeite hebben om te kiezen, snel afgeleid raken en minder genieten van het spelen. Tegelijk blijven ouders met de rommel achter, wat extra druk en stress veroorzaakt.
+Om dit probleem beter te begrijpen, is er onderzoek gedaan via literatuurstudie, benchmarking van bestaande opruimoplossingen en userinterviews met ouders. 
+De voorgestelde oplossing is een innovatieve speelgoedkast met een ingebouwd systeem waarbij kinderen slechts één compartiment tegelijk kunnen gebruiken. Pas wanneer het speelgoed uit dat vak is opgeruimd, wordt het volgende compartiment ontgrendeld.
+Deze kast stimuleert kinderen om zelfstandig op te ruimen en bewuster te spelen. Zo vermindert ze de rommel in huis, verlaagt ze de opvoedstress en krijgen ouders meer rust en tijd voor zichzelf en hun gezin.
 
-- Wat is het probleem?
-- Hoe heb je dit onderzocht?
-- Wat is jouw oplossing?
-- Hoe lost jouw oplossing het probleem op?
-- Hero sketch/render/image, vb.
 <p align="center">
   <img src="img/hero_example.png" width="100%">
 </p>
@@ -36,7 +34,7 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 Max. 500 woorden
 
 ## Noot inzake het gebruik van AI
-Licht toe op welke manier je AI gebruikte in dit project.
+AI hielp bij het schrijven van de projectdocumentatie. Het werd gebruikt om teksten te controleren op spelling en grammatica en om grote stukken tekst samen te vatten. Zo bleef alles duidelijk, overzichtelijk en goed leesbaar.
 
 ## Bijlagen
 ### Discovery

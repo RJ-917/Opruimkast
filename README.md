@@ -34,7 +34,7 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 Max. 500 woorden
 
 ## Noot inzake het gebruik van AI
-AI hielp bij het schrijven van de projectdocumentatie. Het werd gebruikt om teksten te controleren op spelling en grammatica en om grote stukken tekst samen te vatten. Zo bleef alles duidelijk, overzichtelijk en goed leesbaar.
+AI werd gebruikt bij het opstellen van de projectdocumentatie. Het ondersteunde bij het nakijken van spelling en grammatica en bij het samenvatten van uitgebreide teksten. Op die manier bleef de documentatie helder, overzichtelijk en vlot leesbaar. Alle aanpassingen die door AI werden voorgesteld, zijn zorgvuldig gecontroleerd en indien nodig aangepast, zodat de inhoud correct bleef.
 
 ## Bijlagen
 ### Discovery

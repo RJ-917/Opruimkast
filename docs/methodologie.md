@@ -1,4 +1,7 @@
 ## Methodologie
-Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal (1) een tijdsincatie te zien zijn (e.g. maanden of kwartalen), moeten fasen te zien (gekoppeld aan doelstellingen van die fase) zijn en moeten activiteiten te zien zijn (onderzoeksmethoden). Bekijk zeker ook eens [voorbeelden van eerdere jaren](https://github.com/basbaccarne/human-centered-design) (voor SEM1 betreft dit uiteraard slechts de helft van deze visualisaties). We boewen hier in het tweede semester op verder.   
+Het ontwerpproces van **PlayClean** werd opgebouwd volgens een gestructureerde methodologie, gebaseerd op een variant van het **Double Diamond-model**. Tijdens het eerste semester lag de focus op de fasen **Discover** en **Define**, waarbij de gebruiker centraal stond.
 
-Neem hier ook een tijdlijn in op waarin we de evoluties van de prototypes kunnen zien.
+In de **Discover-fase** werd het probleem verkend aan de hand van literatuuronderzoek, benchmarking van bestaande opruimoplossingen en gesprekken met ouders. Deze fase had als doel inzicht te verkrijgen in opvoedstress, speelgedrag van kinderen en problemen rond rommel.
+De **Define-fase** richtte zich op het analyseren en structureren van deze inzichten tot duidelijke probleemstellingen en design requirements. Doorheen het proces stonden gebruiksvriendelijkheid, veiligheid en aantrekkelijkheid centraal.
+
+<img width="3234" height="1560" alt="Methodologie" src="https://github.com/user-attachments/assets/3b34d2e0-2f2a-4c06-b1b9-ab125db23a89" />

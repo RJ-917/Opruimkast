@@ -49,7 +49,7 @@ General, O. O. T. S. (2024). The Current State of Parental Stress & Well-Being. 
 5. [Bill of materials](./docs/bom.md)
 
 ## Kritische reflectie
-*SEM 1*
+**SEM 1**
 Tijdens het project werkten twee studenten samen, wat in het begin niet altijd vlot verliep vanwege verschillen in werkmethodes. Dit zorgde ervoor dat taken langer duurden dan gepland. Naarmate het semester vorderde, werden deze problemen grotendeels opgelost door open te communiceren en een gezamenlijke strategie te ontwikkelen die voor beiden werkte. Dit verbeterde de efficiëntie en hielp om deadlines beter te halen.
 
 Het maken van een prototype op ware schaal bracht zowel voordelen als nadelen met zich mee. Het nadeel was dat het bouwen van zowel een snelle “quick and dirty”-versie als een uitgewerkt prototype meer tijd kostte, waardoor usertests later plaatsvonden dan gepland. Het voordeel was dat het prototype herbruikbaar en eenvoudig aanpasbaar was. Zo kon feedback uit de usertests direct worden verwerkt, wat de kwaliteit van het ontwerp verbeterde.

@@ -20,13 +20,13 @@ Het ontwerp van PlayClean is gebaseerd op literatuuronderzoek, benchmarking, int
 </p>
 
 ## Introductie
-### CleanPlay – Projectbeschrijving
+### PlayClean – Projectbeschrijving
 
-Het project **CleanPlay** richt zich op het verbeteren van het gezinsleven door kinderen op een gestructureerde en speelse manier te leren opruimen. Het valt binnen de context van gebruiksgericht ontwerp en interactief productdesign, met de focus op het ontwikkelen van een laagdrempelig en kindvriendelijk product. Ongeveer 33% van de ouders rapporteert hoge stressniveaus, tegenover 20% van volwassenen zonder kinderen (U.S. Surgeon General, 2021). Deze stress kan voortkomen uit werk, school, activiteiten van de kinderen, transport en tijdsdruk. Veel van deze factoren kunnen niet direct worden aangepakt, waardoor het project zich richt op een aspect dat wél beïnvloedbaar is: het verminderen van rommel tijdens het spelen.  
+Het project **PlayClean** richt zich op het verbeteren van het gezinsleven door kinderen op een gestructureerde en speelse manier te leren opruimen. Het valt binnen de context van gebruiksgericht ontwerp en interactief productdesign, met de focus op het ontwikkelen van een laagdrempelig en kindvriendelijk product. Ongeveer 33% van de ouders rapporteert hoge stressniveaus, tegenover 20% van volwassenen zonder kinderen. Deze stress kan voortkomen uit werk, school, activiteiten van de kinderen, transport en tijdsdruk. Veel van deze factoren kunnen niet direct worden aangepakt, waardoor het project zich richt op een aspect dat wél beïnvloedbaar is: het verminderen van rommel tijdens het spelen.  
 
 ### Concept
 
-**CleanPlay** is een slimme opruimkast, geïnspireerd op het design van de IKEA TROFAST kast. Kinderen kunnen telkens slechts met één speelgoedbak spelen; om met een andere bak te spelen, moet de eerste eerst worden opgeruimd. Een ingebouwd vergrendelingssysteem voorkomt dat andere vakken geopend worden voordat het huidige vak is afgeruimd. Overig speelgoed kan op een aparte plek worden bewaard, zodat ouders het kunnen wisselen om het speelplezier van kinderen te behouden. Door kinderen verantwoordelijk te maken voor opruimen, besparen ouders tijd en krijgen ze ruimte om andere taken te doen of te ontspannen, wat stress kan verminderen.  
+**PlayClean** is een slimme opruimkast, geïnspireerd op het design van de IKEA TROFAST kast. Kinderen kunnen telkens slechts met één speelgoedbak spelen; om met een andere bak te spelen, moet de eerste eerst worden opgeruimd. Een ingebouwd vergrendelingssysteem voorkomt dat andere vakken geopend worden voordat het huidige vak is afgeruimd. Overig speelgoed kan op een aparte plek worden bewaard, zodat ouders het kunnen wisselen om het speelplezier van kinderen te behouden. Door kinderen verantwoordelijk te maken voor opruimen, besparen ouders tijd en krijgen ze ruimte om andere taken te doen of te ontspannen, wat stress kan verminderen.  
 
 ### Randvoorwaarden
 

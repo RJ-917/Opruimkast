@@ -15,7 +15,7 @@ De kast werkt met een ingebouwd vergrendelingssysteem waarbij slechts één comp
 Het ontwerp van PlayClean is gebaseerd op literatuuronderzoek, benchmarking, interviews en usertests met ouders, met aandacht voor gebruiksgemak, veiligheid en duurzaamheid. Door de educatieve en gezinsgerichte aanpak vermindert PlayClean rommel en opvoedstress en draagt het bij aan meer rust en overzicht in huis.
 
 <p align="center">
-![Image.conseptschets.jpg]
+<img width="3234" height="1560" alt="conseptschets" src="https://github.com/user-attachments/assets/51dfa130-a324-4de7-9456-cda20ccf52b5" />
 </p>
 
 ## Introductie

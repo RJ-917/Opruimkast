@@ -15,7 +15,7 @@ Hieronder vind je een overzicht van de componenten voor PlayClean, inclusief voo
 
 ## Display
 - **LCD-display**  
-  [Freenove I2C LCD 1602 Display]([https://www.amazon.com/dp/B01N6G0J7P](https://www.bol.com/be/nl/p/azdelivery-hd44780-1602-lcd-module-display-bundel-met-i2c-interface-2x16-karakters-compatibel-met-arduino-inclusief-e-book/9300000119723827/?Referrer=ADVNLGOO002013-S--9300000119723827-PMAX-C-22290424070&gad_source=1&gad_campaignid=22290461189&gclid=Cj0KCQiAg63LBhDtARIsAJygHZ7UGKIX59hpXz4RDtXhzN2d4fvHpr1iH27ON2oNK4BYhallf3H_4hkaAhCoEALw_wcB)) – tekstweergave voor status en menu.
+  [Freenove I2C LCD 1602 Display]([https://www.amazon.com/dp/B01N6G0J7P](https://www.bol.com/be/nl/p/azdelivery-hd44780-1602-lcd-module-display-bundel-met-i2c-interface-2x16-karakters-compatibel-met-arduino-inclusief-e-book/9300000119723827/?Referrer=ADVNLGOO002013-S--9300000119723827-PMAX-C-22290424070&gad_source=1&gad_campaignid=22290461189&gclid=Cj0KCQiAg63LBhDtARIsAJygHZ7UGKIX59hpXz4RDtXhzN2d4fvHpr1iH27ON2oNK4BYhallf3H_4hkaAhCoEALw_wcB) – tekstweergave voor status en menu.
 
 ## Mechanica
 - **Motor**  

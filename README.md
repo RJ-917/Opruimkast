@@ -24,11 +24,11 @@ Het ontwerp van PlayClean is gebaseerd op literatuuronderzoek, benchmarking, int
 
 Het project **CleanPlay** richt zich op het verbeteren van het gezinsleven door kinderen op een gestructureerde en speelse manier te leren opruimen. Het valt binnen de context van gebruiksgericht ontwerp en interactief productdesign, met de focus op het ontwikkelen van een laagdrempelig en kindvriendelijk product. Ongeveer 33% van de ouders rapporteert hoge stressniveaus, tegenover 20% van volwassenen zonder kinderen (U.S. Surgeon General, 2021). Deze stress kan voortkomen uit werk, school, activiteiten van de kinderen, transport en tijdsdruk. Veel van deze factoren kunnen niet direct worden aangepakt, waardoor het project zich richt op een aspect dat wél beïnvloedbaar is: het verminderen van rommel tijdens het spelen.  
 
-## Concept
+# Concept
 
 **CleanPlay** is een slimme opruimkast, geïnspireerd op het design van de IKEA TROFAST kast. Kinderen kunnen telkens slechts met één speelgoedbak spelen; om met een andere bak te spelen, moet de eerste eerst worden opgeruimd. Een ingebouwd vergrendelingssysteem voorkomt dat andere vakken geopend worden voordat het huidige vak is afgeruimd. Overig speelgoed kan op een aparte plek worden bewaard, zodat ouders het kunnen wisselen om het speelplezier van kinderen te behouden. Door kinderen verantwoordelijk te maken voor opruimen, besparen ouders tijd en krijgen ze ruimte om andere taken te doen of te ontspannen, wat stress kan verminderen.  
 
-## Randvoorwaarden
+# Randvoorwaarden
 
 - **Gebruiksvriendelijkheid:** intuïtief en comfortabel in gebruik voor kinderen.  
 - **Veiligheid:** scherpe randen vermijden en geschikt voor jonge kinderen.  
@@ -36,13 +36,10 @@ Het project **CleanPlay** richt zich op het verbeteren van het gezinsleven door 
 
 CleanPlay combineert educatie, spel en structuur, en biedt zo een praktisch en gezinsgericht alternatief dat zowel de orde in huis als het welzijn van ouders ondersteunt.  
 
-## Bronvermelding
+# Bronvermelding
 
 U.S. Surgeon General. (2021). *Parents Under Pressure: The U.S. Surgeon General’s Advisory on the Mental Health & Well-Being of Parents*. Washington, DC: U.S. Department of Health and Human Services.
 
-Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .
 
 ## Inhoudstafel
 

@@ -49,25 +49,33 @@ General, O. O. T. S. (2024). The Current State of Parental Stress & Well-Being. 
 5. [Bill of materials](./docs/bom.md)
 
 ## Kritische reflectie
-Max. 500 woorden
+*SEM 1:
+Tijdens het project werkten twee studenten samen, wat in het begin niet altijd vlot verliep vanwege verschillen in werkmethodes. Dit zorgde ervoor dat taken langer duurden dan gepland. Naarmate het semester vorderde, werden deze problemen grotendeels opgelost door open te communiceren en een gezamenlijke strategie te ontwikkelen die voor beiden werkte. Dit verbeterde de efficiëntie en hielp om deadlines beter te halen.
+
+Het maken van een prototype op ware schaal bracht zowel voordelen als nadelen met zich mee. Het nadeel was dat het bouwen van zowel een snelle “quick and dirty”-versie als een uitgewerkt prototype meer tijd kostte, waardoor usertests later plaatsvonden dan gepland. Het voordeel was dat het prototype herbruikbaar en eenvoudig aanpasbaar was. Zo kon feedback uit de usertests direct worden verwerkt, wat de kwaliteit van het ontwerp verbeterde.
+
+Daarnaast waren er uitdagingen bij het halen van zelfgestelde deadlines, deels door onderschatting van de benodigde tijd. Regelmatige evaluatie van de planning en duidelijke taakverdeling hielpen deze problemen te beperken.
+
+Positief was dat de usertests en documentatie vlot verliepen. De voorbereiding en uitvoering van de tests waren goed afgestemd op het prototype, waardoor bruikbare inzichten werden verzameld. Ook de documentatie kon efficiënt worden bijgewerkt, dankzij duidelijke taakverdeling.
+
 
 ## Noot inzake het gebruik van AI
 AI werd gebruikt bij het opstellen van de projectdocumentatie. Het ondersteunde bij het nakijken van spelling en grammatica en bij het samenvatten van uitgebreide teksten. Op die manier bleef de documentatie helder, overzichtelijk en vlot leesbaar. Alle aanpassingen die door AI werden voorgesteld, zijn zorgvuldig gecontroleerd en indien nodig aangepast, zodat de inhoud correct bleef.
 
 ## Bijlagen
 ### Discovery
-* Literatuuronderzoek (N=x)
+* Literatuuronderzoek (N=10)
   * [Protocol](url)
   * [Rapport](url)
-* Interviews (N=x)
+* Interviews (N=3)
   * [Protocol](url)
   * [Rapport](url)
     
 ### Definition
-* User testing wave 1 (N=x)
+* User testing wave 1 (N=5)
   * [Protocol](url)
   * [Rapport](url)
-* User testing wave 2 (N=x)
+* User testing wave 2 (N=5)
   * [Protocol](url)
   * [Rapport](url)
 

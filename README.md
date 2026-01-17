@@ -20,7 +20,7 @@ Het ontwerp van PlayClean is gebaseerd op literatuuronderzoek, benchmarking, int
 </p>
 
 ## Introductie
-# CleanPlay – Projectbeschrijving
+### CleanPlay – Projectbeschrijving
 
 Het project **CleanPlay** richt zich op het verbeteren van het gezinsleven door kinderen op een gestructureerde en speelse manier te leren opruimen. Het valt binnen de context van gebruiksgericht ontwerp en interactief productdesign, met de focus op het ontwikkelen van een laagdrempelig en kindvriendelijk product. Ongeveer 33% van de ouders rapporteert hoge stressniveaus, tegenover 20% van volwassenen zonder kinderen (U.S. Surgeon General, 2021). Deze stress kan voortkomen uit werk, school, activiteiten van de kinderen, transport en tijdsdruk. Veel van deze factoren kunnen niet direct worden aangepakt, waardoor het project zich richt op een aspect dat wél beïnvloedbaar is: het verminderen van rommel tijdens het spelen.  
 

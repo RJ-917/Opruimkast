@@ -1,5 +1,5 @@
 # Projecttitel
-*Speelgoedkast waarmee kinderen zelf opruimen en ouders ontlast worden.* 
+*CleanPlay — Play. Clean. Repeat.* 
 
 🛠️ Built by ``Rahul Jaswal`` & ``Arthur Verhaeghe``   
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    

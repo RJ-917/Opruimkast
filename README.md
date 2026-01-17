@@ -38,7 +38,7 @@ CleanPlay combineert educatie, spel en structuur, en biedt zo een praktisch en g
 
 ### Bronvermelding
 
-U.S. Surgeon General. (2021). *Parents Under Pressure: The U.S. Surgeon General’s Advisory on the Mental Health & Well-Being of Parents*. Washington, DC: U.S. Department of Health and Human Services.
+General, O. O. T. S. (2024). The Current State of Parental Stress & Well-Being. Parents Under Pressure - NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK606662/
 
 
 ## Inhoudstafel

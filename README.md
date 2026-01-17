@@ -1,5 +1,5 @@
 # Projecttitel
-*CleanPlay — Play. Clean. Repeat.* 
+*PlayClean — Play. Clean. Repeat.* 
 
 🛠️ Built by ``Rahul Jaswal`` & ``Arthur Verhaeghe``   
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
@@ -8,16 +8,37 @@
 *13/11/2025 van de laatste update*   
 
 ## Samenvatting
-Het probleem dat dit project aanpakt, is de opvoedstress bij verse ouders met kinderen tussen de 4 en 11 jaar. Door tijdsgebrek, vermoeidheid en een overvloed aan speelgoed ervaren veel ouders frustratie in het dagelijkse gezinsleven. Kinderen hebben vaak zoveel speelgoed dat ze moeite hebben om te kiezen, snel afgeleid raken en minder genieten van het spelen. Tegelijk blijven ouders met de rommel achter, wat extra druk en stress veroorzaakt.
-Om dit probleem beter te begrijpen, is er onderzoek gedaan via literatuurstudie, benchmarking van bestaande opruimoplossingen en userinterviews met ouders. 
-De voorgestelde oplossing is een innovatieve speelgoedkast met een ingebouwd systeem waarbij kinderen slechts één compartiment tegelijk kunnen gebruiken. Pas wanneer het speelgoed uit dat vak is opgeruimd, wordt het volgende compartiment ontgrendeld.
-Deze kast stimuleert kinderen om zelfstandig op te ruimen en bewuster te spelen. Zo vermindert ze de rommel in huis, verlaagt ze de opvoedstress en krijgen ouders meer rust en tijd voor zichzelf en hun gezin.
+PlayClean is een slimme speelgoedkast die kinderen op een speelse en gestructureerde manier leert opruimen en bewuster laat spelen. Veel ouders ervaren frustratie door tijdsgebrek, vermoeidheid en een overvloed aan speelgoed. Kinderen raken hierdoor snel afgeleid en spelen minder geconcentreerd, terwijl ouders geconfronteerd worden met rommel en extra stress. Bestaande opbergoplossingen focussen vooral op opslag en ondersteunen het aanleren van opruimgedrag onvoldoende. PlayClean biedt een laagdrempelig alternatief dat spel en structuur combineert.
+
+De kast werkt met een ingebouwd vergrendelingssysteem waarbij slechts één compartiment tegelijk toegankelijk is. Pas wanneer dit vak volledig is opgeruimd, wordt het volgende ontgrendeld. Deze aanpak stimuleert focus, verantwoordelijkheid en zelfstandigheid bij kinderen, zonder voortdurende tussenkomst van ouders. Dankzij de intuïtieve werking en duidelijke visuele structuur leren kinderen spelenderwijs omgaan met orde.
+
+Het ontwerp van PlayClean is gebaseerd op literatuuronderzoek, benchmarking, interviews en usertests met ouders, met aandacht voor gebruiksgemak, veiligheid en duurzaamheid. Door de educatieve en gezinsgerichte aanpak vermindert PlayClean rommel en opvoedstress en draagt het bij aan meer rust en overzicht in huis.
+
 
 <p align="center">
   <img src="img/hero_example.png" width="100%">
 </p>
 
 ## Introductie
+Het project CleanPlay richt zich op het verbeteren van het gezinsleven door kinderen op een gestructureerde en speelse manier te leren opruimen. Het valt binnen de context van gebruiksgericht ontwerp en interactief productdesign, met de focus op het ontwikkelen van een laagdrempelig en kindvriendelijk product. Ongeveer 33% van de ouders rapporteert hoge stressniveaus, tegenover 20% van volwassenen zonder kinderen (U.S. Surgeon General, 2021). Deze stress kan voortkomen uit werk, school, activiteiten van de kinderen, transport en tijdsdruk. Veel van deze factoren kunnen niet direct worden aangepakt, waardoor het project zich richt op een aspect dat wél beïnvloedbaar is: het verminderen van rommel tijdens het spelen.
+
+CleanPlay is een slimme opruimkast, geïnspireerd op het design van de IKEA TROFAST kast. Kinderen kunnen telkens slechts met één speelgoedbak spelen; om met een andere bak te spelen, moet de eerste eerst worden opgeruimd. Een ingebouwd vergrendelingssysteem voorkomt dat andere vakken geopend worden voordat het huidige vak is afgeruimd. Overig speelgoed kan op een aparte plek worden bewaard, zodat ouders het kunnen wisselen om het speelplezier van kinderen te behouden. Door kinderen verantwoordelijk te maken voor opruimen, besparen ouders tijd en krijgen ze ruimte om andere taken te doen of te ontspannen, wat stress kan verminderen.
+
+De belangrijkste randvoorwaarden voor CleanPlay zijn:
+
+Gebruiksvriendelijkheid: intuïtief en comfortabel in gebruik voor kinderen.
+
+Veiligheid: scherpe randen vermijden en geschikt voor jonge kinderen.
+
+Esthetiek / aantrekkelijkheid: de kast moet visueel uitnodigend zijn en de aandacht van kinderen vasthouden, waardoor engagement en spelplezier gestimuleerd worden.
+
+CleanPlay combineert educatie, spel en structuur, en biedt zo een praktisch en gezinsgericht alternatief dat zowel de orde in huis als het welzijn van ouders ondersteunt.
+
+Bronvermelding
+U.S. Surgeon General. (2021). Parents Under Pressure: The U.S. Surgeon General’s Advisory on the Mental Health & Well-Being of Parents. Washington, DC: U.S. Department of Health and Human Services.
+ 
+
+
 Max 300 woorden.
 Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
 Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .

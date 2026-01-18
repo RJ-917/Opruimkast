@@ -9,6 +9,5 @@
 |1.4| Het systeem moet laagdrempelig zijn en zonder uitgebreide uitleg gebruikt kunnen worden. |[1.1 Expert interview](url)|❌|
 |1.5| Een duidelijke visuele feedback (kleuren, licht of symbolen) is noodzakelijk voor kinderen. |[1.1 Expert interview](url)|❌|
 |1.6| De oplossing moet veilig zijn voor kinderen. |[1.1 Expert interview](url)|❌|
-|||||
 |**Definition**|
 |2.1|De pods ... |[2.1 User test](url)|✅|

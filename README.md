@@ -65,20 +65,26 @@ AI werd gebruikt bij het opstellen van de projectdocumentatie. Het ondersteunde 
 
 ## Bijlagen
 ### Discovery
-* Literatuuronderzoek (N=10)
-  * [Protocol](url)
-  * [Rapport](url)
+* Literatuuronderzoek(rapport en protocol staan in hetzelfde document) (N=10)
+  * [Protocol](https://ugentbe-my.sharepoint.com/:w:/r/personal/rahul_jaswal_ugent_be/Documents/opvoedstress/literatuur%20revieuw%20-%20protocol.docx?d=wa329b888aa3d47569299737bf8714845&csf=1&web=1&e=ysp6aQ)
+  * [Rapport1](https://ugentbe-my.sharepoint.com/:w:/r/personal/rahul_jaswal_ugent_be/Documents/opvoedstress/literatuur%20revieuw%20-%20protocol.docx?d=wa329b888aa3d47569299737bf8714845&csf=1&web=1&e=ysp6aQ)
+  
 * Interviews (N=3)
-  * [Protocol](url)
-  * [Rapport](url)
+  * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/arthur_verhaeghe_ugent_be/IQDf5vWo4QKQRbKTjYAPA4R_ARvE_7IF0I8zuInExM05EB8?e=hHYlsI)
+  * [Rapport](https://1drv.ms/w/c/8c124e9a3bbbfd93/IQCwJEqUnsmyQYdcQcVsNhXwAeWkmAJ8pSngh2F2TcAh51k?e=x4vFOk)
+  * [Rapport2](https://ugentbe-my.sharepoint.com/:w:/g/personal/arthur_verhaeghe_ugent_be/IQA5xzJu6RafRJKBsPoPXTPtAXvi7ZQzcimq5PXjSDnosBE?e=rMfLVG)
+    
+* concurent analyse (N=15)
+  * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/arthur_verhaeghe_ugent_be/IQCYTJKWO3nFRKpOoVyQwlWUAQaGKZXJIU3M0XoXyNURw_8?e=iGIwBe)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/arthur_verhaeghe_ugent_be/IQCP67U_ey7HQq8Y5wgLmSzyAepjyex_UwD_ZTzBgxDimbM?e=9eygqV)
     
 ### Definition
 * User testing wave 1 (N=5)
-  * [Protocol](url)
-  * [Rapport](url)
+  * [Protocol]((https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292869/Gedeelde%20documenten/General/Usertests.docx?d=w31392e206cef4974a2297ca3149371f9&csf=1&web=1&e=caaj3m))
+  * [Rapport]((https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292869/Gedeelde%20documenten/General/Usertests.docx?d=w31392e206cef4974a2297ca3149371f9&csf=1&web=1&e=caaj3m))
 * User testing wave 2 (N=5)
-  * [Protocol](url)
-  * [Rapport](url)
+  * [Protocol](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292869/Gedeelde%20documenten/General/Usertests.docx?d=w31392e206cef4974a2297ca3149371f9&csf=1&web=1&e=caaj3m)
+  * [Rapport](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292869/Gedeelde%20documenten/General/Usertests.docx?d=w31392e206cef4974a2297ca3149371f9&csf=1&web=1&e=caaj3m)
 
 ## Licentie
 > :warning: voeg jullie namen toe in de documenten hieronder en delete dan dit lijntje   

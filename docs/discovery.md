@@ -24,6 +24,8 @@ Binnen het benchmarkonderzoek werden vijftien bestaande producten en oplossingen
 
 #### Sprintdag
 In het kader van het vak *Projectgebruikersgericht Ontwerpen* werd een sprintdag georganiseerd waarbij gedurende één dag intensief werd gewerkt aan verschillende ontwerpmethodes, waaronder *How Might We*-vragen, persona’s, associated aspects en ideevorming. Deze sprintdag droeg bij aan het verduidelijken van het probleem, het afbakenen van de doelgroep en het ontwikkelen van een eerste duidelijke productrichting.
+<img width="2346" height="1758" alt="sprintdag" src="https://github.com/user-attachments/assets/d6295679-e5e6-48d5-97c7-eaeba3de3e91" />
+
 
 
 Hoe onderzocht je dit? Wees volledig.    

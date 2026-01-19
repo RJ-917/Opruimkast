@@ -79,9 +79,10 @@ AI werd gebruikt bij het opstellen van de projectdocumentatie. Het ondersteunde 
   * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/arthur_verhaeghe_ugent_be/IQCP67U_ey7HQq8Y5wgLmSzyAepjyex_UwD_ZTzBgxDimbM?e=9eygqV)
     
 ### Definition
+Beide waves staan in hetzelfde document
 * User testing wave 1 (N=5)
-  * [Protocol]((https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292869/Gedeelde%20documenten/General/Usertests.docx?d=w31392e206cef4974a2297ca3149371f9&csf=1&web=1&e=caaj3m))
-  * [Rapport]((https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292869/Gedeelde%20documenten/General/Usertests.docx?d=w31392e206cef4974a2297ca3149371f9&csf=1&web=1&e=caaj3m))
+  * [Protocol](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292869/Gedeelde%20documenten/General/Usertests.docx?d=w31392e206cef4974a2297ca3149371f9&csf=1&web=1&e=caaj3m)
+  * [Rapport](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292869/Gedeelde%20documenten/General/Usertests.docx?d=w31392e206cef4974a2297ca3149371f9&csf=1&web=1&e=caaj3m)
 * User testing wave 2 (N=5)
   * [Protocol](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292869/Gedeelde%20documenten/General/Usertests.docx?d=w31392e206cef4974a2297ca3149371f9&csf=1&web=1&e=caaj3m)
   * [Rapport](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292869/Gedeelde%20documenten/General/Usertests.docx?d=w31392e206cef4974a2297ca3149371f9&csf=1&web=1&e=caaj3m)

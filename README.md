@@ -88,14 +88,14 @@ Beide waves staan in hetzelfde document
   * [Rapport](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292869/Gedeelde%20documenten/General/Usertests.docx?d=w31392e206cef4974a2297ca3149371f9&csf=1&web=1&e=caaj3m)
 
 ## Licentie
-> :warning: voeg jullie namen toe in de documenten hieronder en delete dan dit lijntje   
-
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
 
 - **Software and code:** [MIT License](./LICENSE-MIT)  
 - **Design, documentation, CAD, and media:** [CC BY 4.0 License](./LICENSE)
   
 You are free to reuse and build upon this work, both commercially and non-commercially, as long as proper attribution is given to the original authors.
+**Auteurs:** Prof. Bas Baccarne, Yannick Christiaens, Rahul Jaswal, Arthur Verhaeghe  
+© 2025
 
 ## Bronnen
- [^1]: Thomas, T., & Ritter, A. (2022). Wandering & sundowning in dementia. _Practical Neurology, 21_(3), 36–44.
+ General, O. O. T. S. (2024). The Current State of Parental Stress & Well-Being. Parents Under Pressure - NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK606662/

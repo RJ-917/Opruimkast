@@ -26,11 +26,24 @@ Binnen het benchmarkonderzoek werden vijftien bestaande producten en oplossingen
 In het kader van het vak *Projectgebruikersgericht Ontwerpen* werd een sprintdag georganiseerd waarbij gedurende één dag intensief werd gewerkt aan verschillende ontwerpmethodes, waaronder *How Might We*-vragen, persona’s, associated aspects en ideevorming. Deze sprintdag droeg bij aan het verduidelijken van het probleem, het afbakenen van de doelgroep en het ontwikkelen van een eerste duidelijke productrichting.
 <img width="2346" height="1758" alt="sprintdag" src="https://github.com/user-attachments/assets/d6295679-e5e6-48d5-97c7-eaeba3de3e91" />
 
-
-
-Hoe onderzocht je dit? Wees volledig.    
-Leg uit welke onderzoeksmethoden werden uitgevoerd en hoe dit werd aangepakt (link door naar het protocol).
 ### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+#### 1. Interviews
+De interviews tonen aan dat opvoedstress vooral voortkomt uit tijdstekort, vermoeidheid en maatschappelijke druk. Ouders ervaren voortdurend een zoektocht naar evenwicht tussen werk, gezin en persoonlijke rust. Vermoeidheid kan daarbij leiden tot prikkelbaarheid en schuldgevoelens.
+
+#### 2. Literatuurstudie
+De literatuurstudie bevestigt dat opvoedstress niet alleen het welzijn van ouders beïnvloedt, maar ook het opvoedgedrag en de ontwikkeling van het kind. Een hoger stressniveau kan leiden tot strenger of negatiever opvoedgedrag. Veel bestaande systemen maken gebruik van duidelijke zichtbaarheid van speelgoed, verplaatsbare onderdelen en soms rotatiesystemen, maar interactieve feedbackelementen zijn schaars.
+
+#### 3. Benchmarking
+Uit de benchmarking blijkt dat de meeste bestaande oplossingen voor speelgoedopslag voornamelijk gericht zijn op het opbergen zelf, zonder rekening te houden met het gebruik door kinderen en de tijdsdruk van ouders.
+
+
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+De belangrijkste designbeslissingen zijn:
+
+- Het product moet kinderen stimuleren om zelfstandig op te ruimen.  
+- De interface en het vergrendelingssysteem moeten eenvoudig en intuïtief te gebruiken zijn, en enkel toegankelijk voor ouders.  
+- Visuele feedback zoals kleuren, symbolen of verlichting moet het opruimproces begrijpelijk en aantrekkelijk maken.  
+- Het systeem moet veilig, stabiel en geschikt zijn voor dagelijks gebruik in een gezin.  
+- Het moet sterk genoeg zijn zodat kinderen er ruw mee kunnen spelen.  
+
+

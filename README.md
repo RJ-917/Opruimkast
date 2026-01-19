@@ -67,7 +67,7 @@ AI werd gebruikt bij het opstellen van de projectdocumentatie. Het ondersteunde 
 ### Discovery
 * Literatuuronderzoek(rapport en protocol staan in hetzelfde document) (N=10)
   * [Protocol](https://ugentbe-my.sharepoint.com/:w:/r/personal/rahul_jaswal_ugent_be/Documents/opvoedstress/literatuur%20revieuw%20-%20protocol.docx?d=wa329b888aa3d47569299737bf8714845&csf=1&web=1&e=ysp6aQ)
-  * [Rapport1](https://ugentbe-my.sharepoint.com/:w:/r/personal/rahul_jaswal_ugent_be/Documents/opvoedstress/literatuur%20revieuw%20-%20protocol.docx?d=wa329b888aa3d47569299737bf8714845&csf=1&web=1&e=ysp6aQ)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:w:/r/personal/rahul_jaswal_ugent_be/Documents/opvoedstress/literatuur%20revieuw%20-%20protocol.docx?d=wa329b888aa3d47569299737bf8714845&csf=1&web=1&e=ysp6aQ)
   
 * Interviews (N=3)
   * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/arthur_verhaeghe_ugent_be/IQDf5vWo4QKQRbKTjYAPA4R_ARvE_7IF0I8zuInExM05EB8?e=hHYlsI)

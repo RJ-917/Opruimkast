@@ -19,7 +19,7 @@ Het doel van deze test is te bepalen op welke manier de bak of kast geopend word
 ### Materiaal & methoden
 We zijn gestart met quick-and-dirty prototypes om snel inzicht te krijgen in de richting van het project. Het eerste prototype bestond uit een doos met rails, een eenvoudige kaststructuur uit K’NEX en karton, en een kartonnen kar met K’NEX-wielen waarin de doos geplaatst kon worden om ze te verplaatsen. Er werd gekozen voor K’NEX omdat dit toeliet om snel een stabiele structuur en eenvoudige wielen te bouwen. Karton werd gebruikt omdat het gemakkelijk te bewerken is en ruim beschikbaar was in het atelier.
 
-<img width="602" height="151" alt="eerst prototype" src="https://github.com/user-attachments/assets/ff196f03-836e-4460-a545-8ad759343ad8" />
+<img width="1204" height="302" alt="eerst prototype" src="https://github.com/user-attachments/assets/ff196f03-836e-4460-a545-8ad759343ad8" />
 
 Voor de prototypes in wave 1 en wave 2 werd gekozen voor een doos uit de IKEA TROFAST-kast, aangezien het concept hierop gebaseerd is. Deze prototypes werden bewuster en meer afgewerkt dan het eerste prototype, met als doel een realistischer en visueel duidelijker product te testen bij gebruikers. Door de prototypes verder af te werken, konden de interacties en het gebruiksgemak beter geëvalueerd worden tijdens de usertests.
 
@@ -35,7 +35,7 @@ In wave 1 werden verschillende openingsmechanismen getest op basis van de IKEA T
 
 Hierbij testen de kinderen de mechanismes door per mechanisme het te openen er speelgoed in te leggen en hierna het mechanisme te sluiten.
 
-<img width="602" height="293" alt="Deksels" src="https://github.com/user-attachments/assets/a0550d1a-9c4a-4003-8ced-7d2eb91228ee" />
+<img width="1204" height="586" alt="Deksels" src="https://github.com/user-attachments/assets/a0550d1a-9c4a-4003-8ced-7d2eb91228ee" />
 
 #### Wave 2 – Kastmechanismen
 In wave 2 werden verschillende mechanismen getest om de IKEA TROFAST-bak uit de kast te halen. De prototypes werden gebouwd met beschikbaar ateliermateriaal, met een focus op hout om een stevig en kindproof resultaat te bekomen. Kinderen zijn zich vaak niet bewust van de fragiliteit van een prototype en kunnen er ruw mee omgaan, daarom was robuustheid essentieel. Daarnaast zorgde dit ook voor een meer afgewerkte en realistische uitstraling.
@@ -50,7 +50,7 @@ Alle onderdelen werden modulair ontworpen. Omdat er op schaal werd gewerkt, was 
 
 Tijdens de tests kregen de kinderen een aantal stukken speelgoed die verspreid rond hen lagen. De opdracht was om het speelgoed op te ruimen door de bak uit de kast te halen, het speelgoed erin te leggen en de bak vervolgens opnieuw in de kast te plaatsen. Het speelgoed lag bewust op afstand, zodat de bak verplaatst moest worden en niet alles meteen vanuit stilstand kon worden opgeruimd.
 
- <img width="602" height="642" alt="Kasten" src="https://github.com/user-attachments/assets/b6b348b8-ae12-4879-9b85-f72d4fc7fcee" />
+ <img width="1202" height="1284" alt="Kasten" src="https://github.com/user-attachments/assets/b6b348b8-ae12-4879-9b85-f72d4fc7fcee" />
 
 Na elke wave werden zowel de kinderen als de ouders bevraagd. De kinderen gaven aan welk mechanisme zij het leukste en het eenvoudigste vonden om te gebruiken. De ouders deelden hun mening over de verschillende oplossingen en gaven feedback op vlak van gebruiksgemak, veiligheid en praktische toepasbaarheid, aangevuld met extra inzichten voor verdere optimalisatie van het ontwerp.
 

@@ -32,7 +32,7 @@ Het schema van de productarchitectuur koppelt de gewenste functies direct aan de
 #### Product architectuur
 Het interfaceschema toont de fysieke en elektronische verbindingen tussen de systeemonderdelen. Het geeft de subklassen van de componenten weer en benoemt het type connectie
 <p align="left">
-<img width="941" height="645" alt="image" src="https://github.com/user-attachments/assets/3cab1d3b-1ab7-478f-a172-cad06052fe1e" />
+<img width="941" height="1122" alt="image" src="https://github.com/user-attachments/assets/266dde23-c034-4116-8b65-6425bc831a2f" />
 </p>
 
 #### User-flow

@@ -24,34 +24,32 @@ Na een verdere analyse van het probleem en de bijhorende voorwaarden werd het st
 10.	Het speelgoed is opgeruimd en de ruimte is weer netjes.
 
 #### Functie structuur
+Het schema van de productarchitectuur koppelt de gewenste functies direct aan de componenten die hiervoor dienen.
+<p align="left">
+<img width="849" height="615" alt="image" src="https://github.com/user-attachments/assets/494ef027-0318-4530-9ba2-82164dca8af5" />
+</p>
+
 #### Product architectuur
+Het interfaceschema toont de fysieke en elektronische verbindingen tussen de systeemonderdelen. Het geeft de subklassen van de componenten weer en benoemt het type connectie
+<p align="left">
+<img width="941" height="645" alt="image" src="https://github.com/user-attachments/assets/3cab1d3b-1ab7-478f-a172-cad06052fe1e" />
+</p>
+
 #### User-flow
+Deze userflow visualiseert het volledige interactieproces tussen het kind, de kast en het systeem tijdens het spelen en opruimen. Het schema doorloopt de stappen die het kind kan nemen tijdens het gebruik van het product en toont daarnaast de mogelijke controles en reacties van het systeem. Hierdoor wordt duidelijk hoe het kind stap voor stap door het systeem wordt geleid tijdens het spelen en het opruimen van het speelgoed.
+<p align="left">
+<img width="941" height="1122" alt="image" src="https://github.com/user-attachments/assets/30279e75-ec35-4a1a-8760-d5f41c807697" />
+</p>
+
 #### MVP defenitie
+De minimum viable product van ons project is een kast die is onderverdeeld in verschillende bakken/vakken. Deze kast moet gevuld en ingesteld worden door een ouder. Achter dat een ouder de kast heeft ingesteld zou de kast zelfstandig moeten kunnen gebruikt worden door het kind. Het kind moet enkel kunnen spelen met speelgoed uit de bak dat het kind mee aan het spelen is. Pas als het kind het speelgoed dat in deze bak zat opruimt dan kan het kind met speelgoed uit een andere bak spelen.
+
 ### Interviews
 nieuw
 #### value promise
 nieuw
 ### Morfologiesche matrix
-Oriëntatie kast	Deksel	Kast bediening	Verplaatsing 
-Van de bakken	Verduidelijk 
-Voor het kind	Opruim controle
- 
-	 	Met ingebouwd scherm	 	Op elke bak staat een ander symbool	Weegschaal
 
- 
- 	Met gsm
- 	Indicator
-Led’s (gesloten of open)	Interne camera
-	 	Met
-numpad	 	Speaker
-Externe camera
-	 		Bakken zitten vast aan de kast	Klok
-Ir sensoren
-	 			Scherm	Nfc stikkers
-	 	
-		
-	 
-			
 
 #### Nieuw consept
 nieuw

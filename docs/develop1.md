@@ -56,7 +56,16 @@ Omdat ons product verschillende mogelijke value promises had, hebben we deze voo
 5) Een product dat een ouder meer controle geef wanneer en met welk speelgoed het kind speelt
 
 ### Morfologiesche matrix
-
+Het concept dat we hebben gekozen om verder uit te werken is een liggende kast. Deze vorm maakt het voor kinderen gemakkelijker om bij de bakken te komen en verhoogt zo de toegankelijkheid van het speelgoed.
+Voor het deksel werd gekozen voor een vouwdeksel. Dit type deksel neemt weinig ruimte in wanneer het geopend wordt en is eenvoudig te gebruiken door kinderen. Uit eerder onderzoek bleek dat dit een praktische en gebruiksvriendelijke oplossing is.
+De bediening van het systeem gebeurt via een smartphone. Hierdoor zijn er geen extra bedieningselementen nodig en blijven de kosten beperkt.
+Om het kind te ondersteunen bij het opruimen werd een klok toegevoegd die als timer of alarm kan worden ingesteld. Daarnaast geeft een speaker feedback wanneer het kind iets fout doet of niet goed begrijpt wat er moet gebeuren. De speaker kan ook een opruimlied afspelen om het zelfstandig opruimen te stimuleren.
+Verder zijn er LED-indicatoren die aangeven of een bak correct gesloten is. Tot slot wordt een weegschaal gebruikt om te controleren of het speelgoed correct werd opgeruimd, wat een betrouwbare manier is om dit te controleren.
+<p align="left">
+<img width="755" height="701" alt="image" src="https://github.com/user-attachments/assets/0914f7c0-2a4a-4962-85f6-2512f44346c4" />
+</p>
 
 #### Nieuw consept
-nieuw
+<p align="left">
+<img width="581" height="438" alt="image" src="https://github.com/user-attachments/assets/9668eb27-896c-4032-8716-9c30683efd46" />
+</p>

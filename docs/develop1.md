@@ -8,6 +8,19 @@ Daarnaast gaan we doormiddel van intervieuws de overbodigheden bepalen en bij on
 Eenmaal al deze info verzameld en gestructureerd is zal op basis van de info een morfologische matrix opgesteld worden en een nieuw consept uitgewerkt worden.
 ### Product analyse
 #### Storyboard
+Na een verdere analyse van het probleem en de bijhorende voorwaarden werd het storyboard aangepast. Het nieuwe storyboard legt meer nadruk op de interactie met het product en schetst duidelijker de context waarin het product gebruikt wordt.
+
+1.	De vloer ligt vol met speelgoed.
+2.	De ouder bestuurt de kast via een app op de smartphone.
+3.	Er wordt een foto genomen van het speelgoed om het in de kast te registreren.
+4.	Het speelgoed wordt aan een specifieke bak gekoppeld.
+5.	Het speelgoed wordt in de gekoppelde bak geplaatst.
+6.	Het kind kiest een bak om mee te spelen.
+7.	Het kind opent een bak, terwijl de andere bakken vergrendeld blijven.
+8.	Wanneer het tijd is om te stoppen met spelen, wordt een opruimlied afgespeeld.
+9.	Het kind wordt gestimuleerd om het speelgoed op te ruimen.
+10.	Het speelgoed is opgeruimd en de ruimte is weer netjes.
+
 #### Functie structuur
 #### Product architectuur
 #### User-flow

@@ -45,7 +45,12 @@ Deze userflow visualiseert het volledige interactieproces tussen het kind, de ka
 De minimum viable product van ons project is een kast die is onderverdeeld in verschillende bakken/vakken. Deze kast moet gevuld en ingesteld worden door een ouder. Achter dat een ouder de kast heeft ingesteld zou de kast zelfstandig moeten kunnen gebruikt worden door het kind. Het kind moet enkel kunnen spelen met speelgoed uit de bak dat het kind mee aan het spelen is. Pas als het kind het speelgoed dat in deze bak zat opruimt dan kan het kind met speelgoed uit een andere bak spelen.
 
 ### Interviews
-nieuw
+Toen we ons product waren aan het ontleden hebben we onder vonden dat we niet echt wisten wat de belangrijkste functies van ons product zijn voor de ouders. Ons doel van deze interviews is om te weten te komen wat de ouders het belangrijkste vinden.
+Daarnaast gaan we doormiddel van hun feedback de zaken die onnodig zijn eruit halen.
+Ook zullen we vragen achter hun ervaring om te weten te komen welke opruim strategieën het best werken.
+[interview protocol & report](https://ugentbe-my.sharepoint.com/:w:/r/personal/arthur_verhaeghe_ugent_be/Documents/J%202025-2026/project%20gebruiksgericht%20ontwerpen/develop1.docx?d=w6168b8493fe04b6f912cd4a38d781c14&csf=1&web=1&e=qze038)
+
+
 #### value promise
 Omdat ons product verschillende mogelijke value promises had, hebben we deze voorgelegd aan de doelgroep. De respondenten rangschikten de value promises van meest naar minst belangrijk. Dit gaf ons inzicht in welke aspecten zij het meest waardevol vonden. Deze resultaten gebruikten we vervolgens als basis om zelf een uiteindelijke rangschikking te bepalen en zo een duidelijke richting voor het product te kiezen. De value promises zijn als volgt geordend:
 
@@ -65,7 +70,7 @@ Verder zijn er LED-indicatoren die aangeven of een bak correct gesloten is. Tot 
 <img width="755" height="701" alt="image" src="https://github.com/user-attachments/assets/0914f7c0-2a4a-4962-85f6-2512f44346c4" />
 </p>
 
-#### Nieuw consept
+#### Nieuw concept
 <p align="left">
 <img width="581" height="438" alt="image" src="https://github.com/user-attachments/assets/9668eb27-896c-4032-8716-9c30683efd46" />
 </p>

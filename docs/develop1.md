@@ -55,7 +55,6 @@ Omdat ons product verschillende mogelijke value promises had, hebben we deze voo
 4) Rommel snel en eenvoudig doen verbergen 4)Een product dat ervoor zorgt dat het kind meer opruimd door opruimen leuker te maken
 5) Een product dat een ouder meer controle geef wanneer en met welk speelgoed het kind speelt
 
-Uiteindelijk is er gekozeen geweest om het autonoom opruimen als belangrijkste element in het product.
 ### Morfologiesche matrix
 
 

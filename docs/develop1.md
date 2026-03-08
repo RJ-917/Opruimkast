@@ -38,7 +38,7 @@ Het interfaceschema toont de fysieke en elektronische verbindingen tussen de sys
 #### User-flow
 Deze userflow visualiseert het volledige interactieproces tussen het kind, de kast en het systeem tijdens het spelen en opruimen. Het schema doorloopt de stappen die het kind kan nemen tijdens het gebruik van het product en toont daarnaast de mogelijke controles en reacties van het systeem. Hierdoor wordt duidelijk hoe het kind stap voor stap door het systeem wordt geleid tijdens het spelen en het opruimen van het speelgoed.
 <p align="left">
-<img width="941" height="1122" alt="image" src="https://github.com/user-attachments/assets/30279e75-ec35-4a1a-8760-d5f41c807697" />
+<img width="941" height="1122" alt="image" src="https://github.com/user-attachments/assets/4e9d3ac6-65fc-47e0-8afc-cf3c24ba4280" />
 </p>
 
 #### MVP defenitie

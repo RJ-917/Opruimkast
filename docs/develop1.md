@@ -48,6 +48,7 @@ De minimum viable product van ons project is een kast die is onderverdeeld in ve
 Toen we ons product waren aan het ontleden hebben we onder vonden dat we niet echt wisten wat de belangrijkste functies van ons product zijn voor de ouders. Ons doel van deze interviews is om te weten te komen wat de ouders het belangrijkste vinden.
 Daarnaast gaan we doormiddel van hun feedback de zaken die onnodig zijn eruit halen.
 Ook zullen we vragen achter hun ervaring om te weten te komen welke opruim strategieën het best werken.
+
 [interview protocol & report](https://ugentbe-my.sharepoint.com/:w:/r/personal/arthur_verhaeghe_ugent_be/Documents/J%202025-2026/project%20gebruiksgericht%20ontwerpen/develop1.docx?d=w6168b8493fe04b6f912cd4a38d781c14&csf=1&web=1&e=qze038)
 
 

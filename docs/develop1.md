@@ -47,7 +47,15 @@ De minimum viable product van ons project is een kast die is onderverdeeld in ve
 ### Interviews
 nieuw
 #### value promise
-nieuw
+Omdat ons product verschillende mogelijke value promises had, hebben we deze voorgelegd aan de doelgroep. De respondenten rangschikten de value promises van meest naar minst belangrijk. Dit gaf ons inzicht in welke aspecten zij het meest waardevol vonden. Deze resultaten gebruikten we vervolgens als basis om zelf een uiteindelijke rangschikking te bepalen en zo een duidelijke richting voor het product te kiezen. De value promises zijn als volgt geordend:
+
+1) Een product dat tijd bespaart voor de ouder door het kind meer autonoom te doen opruimen
+2) Een product dat ervoor zorgt dat er een maximum hoeveelheid rommel is door het kind maar met een beperkte hoeveelheid speelgoed te gelijkertijd te laten spelen
+3) Een product dat tijd bespaart voor de ouder door het kind meer autonoom te doen opruimen
+4) Rommel snel en eenvoudig doen verbergen 4)Een product dat ervoor zorgt dat het kind meer opruimd door opruimen leuker te maken
+5) Een product dat een ouder meer controle geef wanneer en met welk speelgoed het kind speelt
+
+Uiteindelijk is er gekozeen geweest om het autonoom opruimen als belangrijkste element in het product.
 ### Morfologiesche matrix
 
 

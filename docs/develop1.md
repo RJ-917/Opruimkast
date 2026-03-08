@@ -9,7 +9,10 @@ Eenmaal al deze info verzameld en gestructureerd is zal op basis van de info een
 ### Product analyse
 #### Storyboard
 Na een verdere analyse van het probleem en de bijhorende voorwaarden werd het storyboard aangepast. Het nieuwe storyboard legt meer nadruk op de interactie met het product en schetst duidelijker de context waarin het product gebruikt wordt.
-
+<p align="center">
+  <img src="<img width="1170" height="420" alt="image" src="https://github.com/user-attachments/assets/88c7760f-4a5d-4c36-82a9-d609329a60e0" />
+" width="100%">
+</p>
 1.	De vloer ligt vol met speelgoed.
 2.	De ouder bestuurt de kast via een app op de smartphone.
 3.	Er wordt een foto genomen van het speelgoed om het in de kast te registreren.

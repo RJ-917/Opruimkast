@@ -10,7 +10,7 @@ Eenmaal al deze info verzameld en gestructureerd is zal op basis van de info een
 #### Storyboard
 Na een verdere analyse van het probleem en de bijhorende voorwaarden werd het storyboard aangepast. Het nieuwe storyboard legt meer nadruk op de interactie met het product en schetst duidelijker de context waarin het product gebruikt wordt.
 <p align="left">
-  <img src=<img width="1170" height="420" alt="image" src="https://github.com/user-attachments/assets/20b0fa40-44f2-4c61-ba8f-c767f5d9623a" />
+  <img width="1170" height="420" alt="image" src="https://github.com/user-attachments/assets/20b0fa40-44f2-4c61-ba8f-c767f5d9623a" />
 ">
 </p>
 1.	De vloer ligt vol met speelgoed.

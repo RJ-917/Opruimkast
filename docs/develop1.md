@@ -12,16 +12,17 @@ Na een verdere analyse van het probleem en de bijhorende voorwaarden werd het st
 <p align="left">
   <img width="1170" height="420" alt="image" src="https://github.com/user-attachments/assets/20b0fa40-44f2-4c61-ba8f-c767f5d9623a" />
 </p>
-1)	De vloer ligt vol met speelgoed.
-2)	De ouder bestuurt de kast via een app op de smartphone.
-3)	Er wordt een foto genomen van het speelgoed om het in de kast te registreren.
-4)	Het speelgoed wordt aan een specifieke bak gekoppeld.
-5)	Het speelgoed wordt in de gekoppelde bak geplaatst.
-6)	Het kind kiest een bak om mee te spelen.
-7)	Het kind opent een bak, terwijl de andere bakken vergrendeld blijven.
-8)	Wanneer het tijd is om te stoppen met spelen, wordt een opruimlied afgespeeld.
-9)  Het kind wordt gestimuleerd om het speelgoed op te ruimen.
-10) Het speelgoed is opgeruimd en de ruimte is weer netjes.
+1)	De vloer ligt vol met speelgoed
+2)	De ouder bestuurt de kast via een app op de smartphone
+3)	Er wordt een foto genomen van het speelgoed om het in de kast te registreren
+4)	Het speelgoed wordt aan een specifieke bak gekoppeld
+5)	Het speelgoed wordt in de gekoppelde bak geplaatst
+6)	Het kind kiest een bak om mee te spelen
+7)	Het kind opent een bak, terwijl de andere bakken vergrendeld blijven
+8)	Wanneer het tijd is om te stoppen met spelen, wordt een opruimlied afgespeeld
+9)  Het kind wordt gestimuleerd om het speelgoed op te ruimen
+10) Het speelgoed is opgeruimd en de ruimte is weer netjes
+
 
 #### Functie structuur
 Het schema van de productarchitectuur koppelt de gewenste functies direct aan de componenten die hiervoor dienen.

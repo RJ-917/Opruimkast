@@ -12,7 +12,7 @@ Na een verdere analyse van het probleem en de bijhorende voorwaarden werd het st
 <p align="left">
   <img width="1170" height="420" alt="image" src="https://github.com/user-attachments/assets/20b0fa40-44f2-4c61-ba8f-c767f5d9623a" />
 </p>
-
+(opdelen in 2 delen, clean up storyboard is belangrijker)
 1) De vloer ligt vol met speelgoed
 2) De ouder bestuurt de kast via een app op de smartphone
 3) Er wordt een foto genomen van het speelgoed om het in de kast te registreren

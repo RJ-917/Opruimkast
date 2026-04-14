@@ -29,6 +29,36 @@ Feedback loop: Zodra de bak voor 100% is opgeruimd, geeft het systeem een extra 
 
 
 
-##Antropometrische analyse (The body): We optimaliseren de fysieke vormfactor. Afmetingen en reikwijdtes worden afgestemd op de uiterste percentielen van de doelgroep (design for the extremes: the tall and the small). De deels onderzochte bak uit de definition-fase ([voeg link in]) wordt hierin verder verfijnd.
+## Antropometrische analyse (The body)
+We optimaliseren de fysieke vormfactor. Afmetingen en reikwijdtes worden afgestemd op de uiterste percentielen van de doelgroep (design for the extremes: the tall and the small). De deels onderzochte bak uit de definition-fase ([voeg link in]) wordt hierin verder verfijnd.
+
+Voor het garanderen van een comfortabele fysieke interactie met de PlayClean opruimkast, is een antropometrische analyse uitgevoerd gericht op de armafmetingen van de doelgroep (kinderen van 8 tot 12 jaar). De data hiervoor is ontleend aan The Measure of Man and Woman.
+
+Om ervoor te zorgen dat de kast voor de gehele doelgroep bruikbaar is, is de ontwerpstrategie "Design for the extremes" (the tall and the small) toegepast. Hierbij wordt de interactie van de twee uitersten van de doelgroep – een kind van 8 jaar (het kleinste percentiel) en een kind van 11/12 jaar (het grootste percentiel) – vergeleken met de afmetingen van de speelgoedbak (gebaseerd op de standaard IKEA Trofast afmetingen).
+
+1. Relevante lichaamsafmetingen (De uitersten)
+Om speelgoed uit een bak te pakken of erin te leggen, zijn de lengte van de onderarm en de hand de meest kritieke maten. De bovenarm speelt een rol bij de algemene positionering, maar de onderarm en hand bepalen hoe diep een kind comfortabel in een bak kan reiken zonder de schouder of rug te forceren.
+
+Het kleinste uiterste (8 jaar): Onderarm: 17.3 cm | Hand: 13.7 cm. De totale functionele reiklengte vanaf de elleboog tot de vingertoppen bedraagt hier 31 cm.
+
+Het grootste uiterste (11 jaar): Onderarm: 21 cm | Hand: 15.6 cm. De totale functionele reiklengte vanaf de elleboog tot de vingertoppen bedraagt hier 36.6 cm.
+
+2. Productafmetingen (De speelgoedbak)
+De gebruikte speelgoedbak heeft de volgende afmetingen:
+
+Diepte (hoogte): 28 cm
+
+Lengte: 30 cm
+
+Breedte: 20 cm
+
+3. Ergonomische evaluatie en comfort
+Wanneer we de lichaamsafmetingen afzetten tegen de afmetingen van de bak, kunnen we de volgende ergonomische conclusies trekken:
+
+Verticale reikwijdte (Diepte van de bak): De bak is 28 cm diep. Omdat de kortste reiklengte van de doelgroep (het 8-jarige kind) 31 cm is, kan zelfs de kleinste gebruiker gemakkelijk tot de bodem van de bak reiken (31 cm > 28 cm). Dit betekent dat het kind de rand van de bak niet als obstakel ervaart en niet oncomfortabel met de oksel of schouder over de rand hoeft te leunen om het laatste stukje speelgoed te pakken.
+
+Horizontale reikwijdte (Oppervlakte van de bak): De opening van de bak is 30 cm bij 20 cm. Beide uitersten van de doelgroep hebben voldoende armlengte om de volledige breedte en lengte van de bak te overbruggen zonder van positie te hoeven veranderen.
+
+Vrije bewegingsruimte (Clearance): Voor de oudere kinderen (11-12 jaar) met langere armsegmenten (totale armlengte van 60.4 cm) en grotere handen is de bakopening van 30x20 cm ruim genoeg om niet met de knokkels of polsen tegen de wanden te stoten tijdens het graaien of opruimen.
 
 

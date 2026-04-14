@@ -13,9 +13,11 @@ Om te voorkomen dat jonge kinderen en vermoeide ouders onnodige cognitieve inspa
 Minimaliseren van Cognitieve Belasting via Directe Mapping
 Digitale displays die interpretatie vereisen (zoals percentages in cijfers) of complexe kleurpatronen zijn expliciet vermeden. In plaats daarvan maakt het ontwerp gebruik van directe mapping en bekende mentale modellen:
 
-### De Thermometer-metafoor: De positionering van de LED-strip is verticaal langs de bak gekozen (of als alternatief horizontaal als dit de 'opvulling' beter weergeeft). Mensen associëren "hoogte" of "lengte" van een balk automatisch met "hoeveelheid". Als de bak voller raakt, stijgen de lichtjes mee omhoog. Dit vereist geen leercurve.
+### De Thermometer-metafoor 
+De positionering van de LED-strip is verticaal langs de bak gekozen (of als alternatief horizontaal als dit de 'opvulling' beter weergeeft). Mensen associëren "hoogte" of "lengte" van een balk automatisch met "hoeveelheid". Als de bak voller raakt, stijgen de lichtjes mee omhoog. Dit vereist geen leercurve.
 
-### Schaalverdeling als context: Subtiele markeringen bij 0%, 50% en 100% bieden de gebruiker context over de capaciteit, zonder de visuele rust te verstoren met getallen.
+### Schaalverdeling als context
+Subtiele markeringen bij 0%, 50% en 100% bieden de gebruiker context over de capaciteit, zonder de visuele rust te verstoren met getallen.
 
 ### Duidelijke Signifiers en Feedback (7 Stages of Action)
 In het kader van Norman's 7 Stages of Action moet de gebruiker direct de status van het systeem kunnen waarnemen (perceive) en evalueren (evaluate) om te weten of het doel (de bak opruimen) is bereikt.

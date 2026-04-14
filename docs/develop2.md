@@ -6,7 +6,7 @@ We ontleden het huidige product via storyboards en user-flows. Via interviews to
 
 Stap 2: Theoretische onderbouwing (The body & the senses)
 Met de verzamelde data stellen we een morfologische matrix op om een geoptimaliseerd concept te ontwikkelen:
-<img width="91" height="653" alt="image" src="https://github.com/user-attachments/assets/2bbf98f3-db05-4610-a4b9-6b795cc9fa41" />
+<img width="911" height="653" alt="image" src="https://github.com/user-attachments/assets/2bbf98f3-db05-4610-a4b9-6b795cc9fa41" />
 
 
 Antropometrische analyse (The body): We optimaliseren de fysieke vormfactor. Afmetingen en reikwijdtes worden afgestemd op de uiterste percentielen van de doelgroep (design for the extremes: the tall and the small). De deels onderzochte bak uit de definition-fase ([voeg link in]) wordt hierin verder verfijnd.

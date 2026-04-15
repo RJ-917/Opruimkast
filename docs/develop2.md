@@ -6,6 +6,7 @@ We ontleden het huidige product via storyboards en user-flows. Via interviews to
 
 ### Cognitieve & sensoriële ergonomie: Theoretische onderbouwing (The body & the senses)
 Met de verzamelde data stellen we een morfologische matrix op om een verschillende concepten te ontwikkelen:
+
 <img width="911" height="653" alt="image" src="https://github.com/user-attachments/assets/2bbf98f3-db05-4610-a4b9-6b795cc9fa41" />
 
 Om te voorkomen dat jonge kinderen en vermoeide ouders onnodige cognitieve inspanning moeten leveren, is de interface — op basis van de geselecteerde opties uit de morfologische matrix ontworpen om "in één oogopslag" begrepen te worden, waarbij digitale displays die interpretatie vereisen (zoals cijferpercentages) en complexe kleurpatronen bewust zijn vermeden ten voordele van directe mapping en bekende mentale modellen.

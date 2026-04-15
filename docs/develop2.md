@@ -20,7 +20,7 @@ Subtiele markeringen bij 0%, 50% en 100% bieden de gebruiker context over de cap
 
 ### Duidelijke Signifiers en Feedback (7 Stages of Action)
 In het kader van Norman's 7 Stages of Action moet de gebruiker direct de status van het systeem kunnen waarnemen (perceive) en evalueren (evaluate) om te weten of het doel (de bak opruimen) is bereikt.
-<img width="1058" height="3857" alt="image" src="https://github.com/user-attachments/assets/d4b25ed7-a6fa-432c-95b8-d27afd9a3259" />
+<img width="500" height="2000" alt="image" src="https://github.com/user-attachments/assets/d4b25ed7-a6fa-432c-95b8-d27afd9a3259" />
 
 Visuele Signifiers (Kleurcodering): Er is gekozen voor een consistente, logische kleurcodering. Een lege bak of de lege ruimte wordt weergegeven met een neutrale kleur (zoals grijs of dof rood), de vulling met een overgangskleur (oranje voor deels vol), en de volle status met een positieve bevestigingskleur (groen).
 <img width="1472" height="452" alt="image" src="https://github.com/user-attachments/assets/cbe19662-5222-4a76-887c-c881d429fec9" />

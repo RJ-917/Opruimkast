@@ -12,17 +12,22 @@ Om te voorkomen dat jonge kinderen en vermoeide ouders onnodige cognitieve inspa
 
 ### De Thermometer
 De positionering van de LED-strip is verticaal langs de bak gekozen (of als alternatief horizontaal als dit de 'opvulling' beter weergeeft). Mensen associëren "hoogte" of "lengte" van een balk automatisch met "hoeveelheid". Als de bak voller raakt, stijgen de lichtjes mee omhoog. Dit vereist geen leercurve.
+
 <img width="93" height="975" alt="image" src="https://github.com/user-attachments/assets/ea6e3c96-1db0-4e99-b8fa-4618d4cece20" />
 
 ### Schaalverdeling als context
 Subtiele markeringen bij 0%, 50% en 100% bieden de gebruiker context over de capaciteit, zonder de visuele rust te verstoren met getallen.
+
 <img width="281" height="1018" alt="image" src="https://github.com/user-attachments/assets/8d0419a3-6fb0-4dfc-b4ba-f1e2ff6a9d54" />
 
-### Duidelijke Signifiers en Feedback (7 Stages of Action)
+## Duidelijke Signifiers en Feedback (7 Stages of Action)
 In het kader van Norman's 7 Stages of Action moet de gebruiker direct de status van het systeem kunnen waarnemen (perceive) en evalueren (evaluate) om te weten of het doel (de bak opruimen) is bereikt.
+
 <img width="500" height="2000" alt="image" src="https://github.com/user-attachments/assets/d4b25ed7-a6fa-432c-95b8-d27afd9a3259" />
 
-Visuele Signifiers (Kleurcodering): Er is gekozen voor een consistente, logische kleurcodering. Een lege bak of de lege ruimte wordt weergegeven met een neutrale kleur (zoals grijs of dof rood), de vulling met een overgangskleur (oranje voor deels vol), en de volle status met een positieve bevestigingskleur (groen).
+### Visuele Signifiers
+Er is gekozen voor een consistente, logische kleurcodering. Een lege bak of de lege ruimte wordt weergegeven met een neutrale kleur (zoals grijs of dof rood), de vulling met een overgangskleur (oranje voor deels vol), en de volle status met een positieve bevestigingskleur (groen).
+
 <img width="1472" height="452" alt="image" src="https://github.com/user-attachments/assets/cbe19662-5222-4a76-887c-c881d429fec9" />
 
 Zodra de bak voor 100% is opgeruimd, geeft het systeem een extra fysieke of auditieve 'beloning'. De LEDs geven een korte puls of spelen een animatie af en er kan een auditieve melding worden afgespeeld. Dit is cruciale feedback die de actie van het kind positief afsluit.

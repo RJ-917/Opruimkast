@@ -59,7 +59,7 @@ Zodra de bak voor 100% is opgeruimd, geeft het systeem een extra fysieke of audi
 
 We optimaliseren de fysieke vormfactor. Afmetingen en reikwijdtes worden afgestemd op de uiterste percentielen van de doelgroep (design for the extremes: the tall and the small). Dit bouwt voort op onderzoek uit de [definition-fase](definition.md) en wordt hier verder verfijnd.
 
-Voor het garanderen van een comfortabele fysieke interactie met de PlayClean opruimkast, is een antropometrische analyse uitgevoerd gericht op de armafmetingen van de doelgroep (kinderen van 8 tot 12 jaar). De data hiervoor is ontleend aan [The Measure of Man and Woman](https://arc104201516.wordpress.com/wp-content/uploads/2016/02/the-measure-of-man-and-woman-human-factors-in-design-alvin-r-tilley-henry-dreyfuss.pdf).
+Voor het garanderen van een comfortabele fysieke interactie met de PlayClean opruimkast, is een antropometrische analyse uitgevoerd gericht op de armafmetingen van de doelgroep (kinderen van 8 tot 11 jaar). De data hiervoor is ontleend aan [The Measure of Man and Woman](https://arc104201516.wordpress.com/wp-content/uploads/2016/02/the-measure-of-man-and-woman-human-factors-in-design-alvin-r-tilley-henry-dreyfuss.pdf).
 
 Om ervoor te zorgen dat de kast voor de gehele doelgroep bruikbaar is, is de ontwerpstrategie design for the tall and the small toegepast. Hierbij wordt de interactie van twee uitersten vergeleken: een kind van 8 jaar (kleinste percentiel) en een kind van 11/12 jaar (grootste percentiel), in relatie tot de afmetingen van de speelgoedbak (gebaseerd op de standaard IKEA Trofast afmetingen).
 

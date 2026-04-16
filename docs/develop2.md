@@ -6,7 +6,7 @@ In deze fase verschuift de focus van de technische werking ("hoe het werkt") naa
 
 We ontleden het huidige product via storyboards en user-flows. Via interviews toetsen we bij de doelgroep wat de échte value promise van PlayClean is. Met deze inzichten schrappen we onnodige functies en definiëren we meetbare usability goals die bepalen wat "gebruiksvriendelijkheid" voor ons product inhoudt.
 
-Kort samengevat eisen deze doelen een veilige, fysiek toegankelijke kast die kinderen volledig intuïtief (zonder uitleg) kunnen bedienen, ondersteund door heldere feedback om zelfstandig opruimen spelenderwijs te stimuleren. De specifieke goals staan in [develop1](develop1.md).
+Kort samengevat eisen deze doelen een veilige, fysiek toegankelijke kast die kinderen volledig intuïtief (zonder uitleg) kunnen bedienen, ondersteund door heldere feedback om zelfstandig opruimen spelenderwijs te stimuleren. De specifieke goals staan in [Design Requirements](design_requirements.md).
 
 ## Cognitieve & sensoriële ergonomie: Theoretische onderbouwing (The body & the senses)
 
@@ -55,9 +55,9 @@ Er is gekozen voor een consistente, logische kleurcodering:
 
 Zodra de bak voor 100% is opgeruimd, geeft het systeem een extra fysieke of auditieve 'beloning'. De LEDs geven een korte puls of spelen een animatie af en er kan een auditieve melding worden afgespeeld. Dit is cruciale feedback die de actie van het kind positief afsluit.
 
-## Antropometrische analyse (The body)
+## Antropometrische analyse 
 
-We optimaliseren de fysieke vormfactor. Afmetingen en reikwijdtes worden afgestemd op de uiterste percentielen van de doelgroep (design for the extremes: the tall and the small). Dit bouwt voort op onderzoek uit de definition-fase ([voeg link in]) en wordt hier verder verfijnd.
+We optimaliseren de fysieke vormfactor. Afmetingen en reikwijdtes worden afgestemd op de uiterste percentielen van de doelgroep (design for the extremes: the tall and the small). Dit bouwt voort op onderzoek uit de [definition-fase](definition.md) en wordt hier verder verfijnd.
 
 Voor het garanderen van een comfortabele fysieke interactie met de PlayClean opruimkast, is een antropometrische analyse uitgevoerd gericht op de armafmetingen van de doelgroep (kinderen van 8 tot 12 jaar). De data hiervoor is ontleend aan [The Measure of Man and Woman](https://arc104201516.wordpress.com/wp-content/uploads/2016/02/the-measure-of-man-and-woman-human-factors-in-design-alvin-r-tilley-henry-dreyfuss.pdf).
 
@@ -67,16 +67,16 @@ Om ervoor te zorgen dat de kast voor de gehele doelgroep bruikbaar is, is de ont
 <img width="443" height="483" alt="image" src="https://github.com/user-attachments/assets/93aec24d-e1bf-4150-bc56-c90d87b461fc" />
 </p>
 
-## Relevante lichaamsafmetingen (De uitersten)
+## Relevante lichaamsafmetingen 
 
 Om speelgoed uit een bak te pakken of erin te leggen, zijn de lengte van de onderarm en de hand de meest kritieke maten.
 
-**Kleinste uiterste (8 jaar):**
+**Kleinste afmetingen (8 jaar):**
 - Onderarm: 17.3 cm  
 - Hand: 13.7 cm  
 - Totale reiklengte: 31 cm  
 
-**Grootste uiterste (11 jaar):**
+**Grootste afmetingen (11 jaar):**
 - Onderarm: 21 cm  
 - Hand: 15.6 cm  
 - Totale reiklengte: 36.6 cm  

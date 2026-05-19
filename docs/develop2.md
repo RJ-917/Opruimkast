@@ -125,3 +125,11 @@ Voor oudere kinderen met langere armen en grotere handen is er voldoende ruimte 
 </p>
 
 
+## Usertest
+Uit de inzichten van het antropometrische en cognitieve analyse hebben we zijn we begonnen aan een finalere versie van ons prototype.
+hierbij hebben we als main focus losse een lestrip gepaatst hierme hebben we de verschillende visualieseringen gestest bij de kinder om zo te zien welke de kinder het best begrepen op basis van of dat zij de taak die ze hadden konder uitvoeren.
+uit eerste intervieuw:
+uit het tweede intervieuw:
+uit het derde interviuw: 
+
+

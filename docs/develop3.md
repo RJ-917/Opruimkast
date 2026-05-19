@@ -113,3 +113,17 @@ De Playclean speelgoedkast balanceert:
 - **Emotie:** rust voor ouders, speelsheid voor kinderen  
 
 Deze CMF-richting vormt de basis voor verdere varianten en beperkte personalisatieopties binnen het ontwerp.
+
+---
+Op basis van bestaande styles van producten hebben we volgende renders gerealiseerd.
+deze dienen als visualisatie voor de grbuiker om een beter beeld en keuzes te geven hoe het product er in een huishoudelijke omgeving zou uitzien
+style1
+style2
+style3
+style4
+
+Om alles uit de laatste usertest te halen hebben we het prototype uit vorige tests nog aangepast om een betere en afgewerktere finish te hebben.
+(uitleg over veranderingen van het prototype en fotos)
+
+Uit de laatse usertest halen we nog de laatste inzichten om het product te verbeteren. hierbij hebben we ons finale protoype gestest bij de user.
+[protocil]

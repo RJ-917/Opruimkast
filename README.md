@@ -8,11 +8,11 @@
 *13/11/2025 van de laatste update*   
 
 ## Samenvatting
-PlayClean is een slimme speelgoedkast die kinderen op een speelse en gestructureerde manier leert opruimen en bewuster laat spelen. Veel ouders ervaren frustratie door tijdsgebrek, vermoeidheid en een overvloed aan speelgoed. Kinderen raken hierdoor snel afgeleid en spelen minder geconcentreerd, terwijl ouders geconfronteerd worden met rommel en extra stress. Bestaande opbergoplossingen focussen vooral op opslag en ondersteunen het aanleren van opruimgedrag onvoldoende. PlayClean biedt een laagdrempelig alternatief dat spel en structuur combineert.
+PlayClean is een slimme speelgoedkast die kinderen op een speelse en gestructureerde manier leert opruimen en bewuster laat spelen. Veel ouders ervaren frustratie door tijdsgebrek, vermoeidheid en een overvloed aan speelgoed. Kinderen raken hierdoor snel afgeleid en spelen minder geconcentreerd, terwijl ouders geconfronteerd worden met rommel en extra stress. Bestaande opbergoplossingen focussen vooral op opslag en ondersteunen het aanleren van opruimgedrag onvoldoende. PlayClean biedt een alternatief dat kinderen op een zelfstandige en speelse wijze motiveert om op te ruimen.
 
-De kast werkt met een ingebouwd vergrendelingssysteem waarbij slechts één compartiment tegelijk toegankelijk is. Pas wanneer dit vak volledig is opgeruimd, wordt het volgende ontgrendeld. Deze aanpak stimuleert focus, verantwoordelijkheid en zelfstandigheid bij kinderen, zonder voortdurende tussenkomst van ouders. Dankzij de intuïtieve werking en duidelijke visuele structuur leren kinderen spelenderwijs omgaan met orde.
+De kast werkt met een ingebouwd vergrendelingssysteem waarbij slechts één compartiment tegelijk toegankelijk is. Pas wanneer dit vak volledig is opgeruimd, wordt het volgende ontgrendeld. Deze aanpak stimuleert het zelfstand opruimen bij de kinderen, zonder voortdurende tussenkomst van ouders. 
 
-Het ontwerp van PlayClean is gebaseerd op literatuuronderzoek, benchmarking, interviews en usertests met ouders, met aandacht voor gebruiksgemak, veiligheid en duurzaamheid. Door de educatieve en gezinsgerichte aanpak vermindert PlayClean rommel en opvoedstress en draagt het bij aan meer rust en overzicht in huis.
+Het ontwerp van PlayClean is gebaseerd op literatuuronderzoek, benchmarking, interviews en gebruikerstesten met ouders, waarbij bijzondere aandacht is besteed aan gebruiksgemak, veiligheid en intuïtiviteit. Door zijn educatieve en gezinsgerichte aanpak ondersteunt PlayClean kinderen bij het zelfstandig uitvoeren van opruimtaken.
 
 <p align="center">
 <img width="2810" height="2481" alt="consept schets" src="https://github.com/user-attachments/assets/bdc89a68-c472-442c-941c-334abaa41f2c" />
@@ -25,7 +25,7 @@ Het project **PlayClean** richt zich op het verbeteren van het gezinsleven door 
 
 ### Concept
 
-**PlayClean** is een slimme opruimkast, geïnspireerd op het design van de IKEA TROFAST kast. Kinderen kunnen telkens slechts met één speelgoedbak spelen; om met een andere bak te spelen, moet de eerste eerst worden opgeruimd. Een ingebouwd vergrendelingssysteem voorkomt dat andere vakken geopend worden voordat het huidige vak is afgeruimd. Overig speelgoed kan op een aparte plek worden bewaard, zodat ouders het kunnen wisselen om het speelplezier van kinderen te behouden. Door kinderen verantwoordelijk te maken voor opruimen, besparen ouders tijd en krijgen ze ruimte om andere taken te doen of te ontspannen, wat stress kan verminderen.  
+**PlayClean** is een slimme opruimkast, geïnspireerd op het design van de IKEA TROFAST kast. Kinderen kunnen telkens slechts met één speelgoedbak spelen, om met een andere bak te spelen, moet de eerste eerst worden opgeruimd. Een ingebouwd vergrendelingssysteem voorkomt dat andere vakken geopend worden voordat het huidige vak is afgeruimd. Overig speelgoed kan op een aparte plek worden bewaard, zodat ouders het kunnen wisselen om het speelplezier van kinderen te behouden. Door kinderen verantwoordelijk te maken voor opruimen, besparen ouders tijd en krijgen ze ruimte om andere taken te doen of te ontspannen, wat stress kan verminderen.  
 
 ### Randvoorwaarden
 
@@ -33,7 +33,8 @@ Het project **PlayClean** richt zich op het verbeteren van het gezinsleven door 
 - **Veiligheid:** scherpe randen vermijden en geschikt voor jonge kinderen.  
 - **Esthetiek / aantrekkelijkheid:** visueel uitnodigend, houdt de aandacht van kinderen vast en stimuleert engagement.  
 
-CleanPlay combineert educatie, spel en structuur, en biedt zo een praktisch en gezinsgericht alternatief dat zowel de orde in huis als het welzijn van ouders ondersteunt.  
+het product is een combinatie van eduducatie spel en structuur hierme biedt het een gezinsgerichte oplossing wat het welzijn van de ouders ondersteunt
+ 
 
 ### Bronvermelding
 

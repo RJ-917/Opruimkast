@@ -33,7 +33,7 @@ Het project **PlayClean** richt zich op het verbeteren van het gezinsleven door 
 - **Veiligheid:** scherpe randen vermijden en geschikt voor jonge kinderen.  
 - **Esthetiek / aantrekkelijkheid:** visueel uitnodigend, houdt de aandacht van kinderen vast en stimuleert engagement.  
 
-het product is een combinatie van eduducatie spel en structuur hierme biedt het een gezinsgerichte oplossing wat het welzijn van de ouders ondersteunt
+Het product combineert educatie, spel en structuur en biedt daarmee een gezinsgerichte oplossing die kinderen ondersteunt bij het aanleren van opruimgewoonten en ouders helpt bij het creëren van meer overzicht in huis.
  
 
 ### Bronvermelding
@@ -51,17 +51,26 @@ General, O. O. T. S. (2024). The Current State of Parental Stress & Well-Being. 
 6. [Develop 3](./docs/develop3.md)
 7. [Design Requirements](./docs/design_requirements.md)
 8. [Bill of materials](./docs/bom.md)
+9. [Renders](.placeholder)
 
 ## Kritische reflectie
 **SEM 1**
+Tijdens het project werkten twee studenten samen. In het begin verliep deze samenwerking niet altijd even vlot door verschillen in werkmethodes en verwachtingen. Hierdoor namen bepaalde taken meer tijd in beslag dan oorspronkelijk gepland. Naarmate het semester vorderde, werden deze uitdagingen grotendeels opgelost door open communicatie en het ontwikkelen van een gezamenlijke werkwijze. Dit zorgde voor een efficiëntere samenwerking en maakte het makkelijker om deadlines te behalen.
 
-Tijdens het project werkten twee studenten samen, wat in het begin niet altijd vlot verliep vanwege verschillen in werkmethodes. Dit zorgde ervoor dat taken langer duurden dan gepland. Naarmate het semester vorderde, werden deze problemen grotendeels opgelost door open te communiceren en een gezamenlijke strategie te ontwikkelen die voor beiden werkte. Dit verbeterde de efficiëntie en hielp om deadlines beter te halen.
+Het ontwikkelen van een prototype op ware schaal bracht zowel voordelen als nadelen met zich mee. Enerzijds kostte het bouwen van zowel een snelle "quick-and-dirty"-versie als een meer uitgewerkt prototype extra tijd, waardoor de usertests later plaatsvonden dan voorzien. Anderzijds bleek het prototype zeer flexibel en eenvoudig aanpasbaar. Hierdoor kon feedback uit de usertests snel worden verwerkt, wat de kwaliteit van het ontwerp aanzienlijk verbeterde.
 
-Het maken van een prototype op ware schaal bracht zowel voordelen als nadelen met zich mee. Het nadeel was dat het bouwen van zowel een snelle “quick and dirty”-versie als een uitgewerkt prototype meer tijd kostte, waardoor usertests later plaatsvonden dan gepland. Het voordeel was dat het prototype herbruikbaar en eenvoudig aanpasbaar was. Zo kon feedback uit de usertests direct worden verwerkt, wat de kwaliteit van het ontwerp verbeterde.
+Daarnaast waren er uitdagingen bij het behalen van zelfopgelegde deadlines, voornamelijk doordat de benodigde tijd voor bepaalde taken werd onderschat. Door de planning regelmatig te evalueren en taken duidelijk te verdelen, konden deze problemen echter grotendeels worden beperkt.
 
-Daarnaast waren er uitdagingen bij het halen van zelfgestelde deadlines, deels door onderschatting van de benodigde tijd. Regelmatige evaluatie van de planning en duidelijke taakverdeling hielpen deze problemen te beperken.
+Een positief aspect van het semester was het vlotte verloop van zowel de usertests als de documentatie. De voorbereiding en uitvoering van de tests waren goed afgestemd op het prototype, waardoor waardevolle inzichten werden verzameld. Ook de documentatie kon efficiënt worden bijgewerkt dankzij een duidelijke taakverdeling binnen het team.
 
-Positief was dat de usertests en documentatie vlot verliepen. De voorbereiding en uitvoering van de tests waren goed afgestemd op het prototype, waardoor bruikbare inzichten werden verzameld. Ook de documentatie kon efficiënt worden bijgewerkt, dankzij duidelijke taakverdeling.
+
+**SEM 2**
+Het tweede semester verliep merkbaar vlotter dan het eerste. Door een betere taakverdeling en een meer gestroomlijnde samenwerking konden werkzaamheden efficiënter worden uitgevoerd. Ondanks deze verbeteringen bleef het soms uitdagend om bepaalde deadlines te halen. De lichte vertragingen die gedurende het academiejaar werden opgelopen, zorgden ervoor dat tegen het einde van het project een hogere werkdruk ontstond om alle einddeadlines te behalen.
+
+Ook tijdens de usertests deden zich enkele uitdagingen voor. Zo traden er af en toe technische problemen op met het prototype en kwamen er onverwachte situaties naar voren die extra aandacht vereisten. Ondanks deze moeilijkheden leverden de tests waardevolle feedback op voor de verdere ontwikkeling van het project.
+
+Tegenover deze uitdagingen stonden verschillende positieve ervaringen. Het uitwerken van het finale prototype en de bijhorende applicatie verliep succesvol. Daarnaast boden de workshops tijdens de lessen nuttige ondersteuning, waardoor zowel de documentatie als het opstellen ervan vlot konden worden afgewerkt. Dankzij de opgedane ervaring uit het eerste semester kon het team efficiënter werken en het project succesvol afronden.
+
 
 
 ## Noot inzake het gebruik van AI

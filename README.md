@@ -1,5 +1,8 @@
 # Projecttitel
 *PlayClean — Play. Clean. Repeat.* 
+<p align="center">
+  <img src="img/app_logo.png" width="400">
+</p>
 
 🛠️ Built by ``Rahul Jaswal`` & ``Arthur Verhaeghe``   
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    

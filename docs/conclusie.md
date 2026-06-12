@@ -2,7 +2,7 @@
 
 Na een uitgebreid proces van onderzoek, ideatie en iteratie presenteren we met trots ons finale concept: **De PlayClean speelgoedkast**. 
 
-De PlayClean kast is een slimme speelgoedkast die kinderen tussen de 4 en 10 jaar op een speelse manier stimuleert om op te ruimen. Het stelt ouders in staat om hun kinderen autonoom te leren opruimen, waardoor de dagelijkse stress van een rommelige kamer aanzienlijk wordt verminderd.
+De PlayClean kast is een slimme speelgoedkast die kinderen tussen de 4 en 11 jaar op een speelse manier stimuleert om op te ruimen. Het stelt ouders in staat om hun kinderen autonoom te leren opruimen, waardoor de dagelijkse stress van een rommelige kamer aanzienlijk wordt verminderd.
 
 In de beginfase stelden we vast dat ouders vaak stress ervaren door tijdstekort en vermoeidheid. Rondslingerend speelgoed na het spelen bleek hierbij een grote extra frustratiefactor. Dit concept biedt hiervoor een gestroomlijnde en effectieve uitweg. We zijn ervan overtuigd dat dit een sterke oplossing is voor de geschetste problematiek, en wel om de volgende redenen:
 

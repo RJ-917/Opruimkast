@@ -54,30 +54,24 @@ General, O. O. T. S. (2024). The Current State of Parental Stress & Well-Being. 
 6. [Develop 3](./docs/develop3.md)
 7. [Design Requirements](./docs/design_requirements.md)
 8. [Bill of materials](./docs/bom.md)
-9. [Conclusie](.placeholder)
+9. [Conclusie](./docs/conclusie.md)
 
 ## Kritische reflectie
-**SEM 1**
-Tijdens het project werkten twee studenten samen. In het begin verliep deze samenwerking niet altijd even vlot door verschillen in werkmethodes en verwachtingen. Hierdoor namen bepaalde taken meer tijd in beslag dan oorspronkelijk gepland. Naarmate het semester vorderde, werden deze uitdagingen grotendeels opgelost door open communicatie en het ontwikkelen van een gezamenlijke werkwijze. Dit zorgde voor een efficiëntere samenwerking en maakte het makkelijker om deadlines te behalen.
+**Samenwerking en planning**
+In de beginfase was het even zoeken naar de juiste dynamiek, omdat we verschilden in werkmethodes en verwachtingen. Hierdoor namen sommige taken aanvankelijk meer tijd in beslag. Door open te communiceren hebben we dit gelukkig snel opgelost en een gezamenlijke werkwijze gevonden, waardoor de samenwerking in het tweede semester aanzienlijk vlotter verliep. Time management bleef wel een aandachtspunt. In het begin onderschatten we de benodigde tijd voor bepaalde taken. Hoewel we de planning daarna beter opvolgden, zorgden kleine opgelopen vertragingen er wel voor dat de werkdruk richting de eindoplevering flink toenam.
 
-Het ontwikkelen van een prototype op ware schaal bracht zowel voordelen als nadelen met zich mee. Enerzijds kostte het bouwen van zowel een snelle "quick-and-dirty"-versie als een meer uitgewerkt prototype extra tijd, waardoor de usertests later plaatsvonden dan voorzien. Anderzijds bleek het prototype zeer flexibel en eenvoudig aanpasbaar. Hierdoor kon feedback uit de usertests snel worden verwerkt, wat de kwaliteit van het ontwerp aanzienlijk verbeterde.
+**Prototyping en testen**
+In het eerste semester kozen we ervoor om direct een prototype op ware grootte te bouwen (eerst een snelle testversie, daarna een meer uitgewerkt model). Dit kostte extra tijd, waardoor de usertests wat opschoven. Toch bleek dit een goede keuze: het prototype was erg flexibel, waardoor we de feedback uit de tests snel konden verwerken.
+Tijdens de tests in het tweede semester liepen we af en toe tegen technische problemen en onverwachte situaties aan. Ondanks deze uitdagingen leverden ook deze sessies weer onmisbare inzichten op voor het eindproduct.
 
-Daarnaast waren er uitdagingen bij het behalen van zelfopgelegde deadlines, voornamelijk doordat de benodigde tijd voor bepaalde taken werd onderschat. Door de planning regelmatig te evalueren en taken duidelijk te verdelen, konden deze problemen echter grotendeels worden beperkt.
+**Documentatie en eindresultaat**
+Een groot pluspunt gedurende het hele project was het vlotte verloop van de documentatie. De voorbereiding was goed en door een heldere taakverdeling bleef alles netjes en overzichtelijk. In het tweede semester boden de workshops tijdens de lessen nuttige ondersteuning om dit vlot af te ronden. Ook de ontwikkeling van het finale prototype en de bijbehorende applicatie verliep zeer succesvol.
 
-Een positief aspect van het semester was het vlotte verloop van zowel de usertests als de documentatie. De voorbereiding en uitvoering van de tests waren goed afgestemd op het prototype, waardoor waardevolle inzichten werden verzameld. Ook de documentatie kon efficiënt worden bijgewerkt dankzij een duidelijke taakverdeling binnen het team.
-
-
-**SEM 2**
-Het tweede semester verliep merkbaar vlotter dan het eerste. Door een betere taakverdeling en een meer gestroomlijnde samenwerking konden werkzaamheden efficiënter worden uitgevoerd. Ondanks deze verbeteringen bleef het soms uitdagend om bepaalde deadlines te halen. De lichte vertragingen die gedurende het academiejaar werden opgelopen, zorgden ervoor dat tegen het einde van het project een hogere werkdruk ontstond om alle einddeadlines te behalen.
-
-Ook tijdens de usertests deden zich enkele uitdagingen voor. Zo traden er af en toe technische problemen op met het prototype en kwamen er onverwachte situaties naar voren die extra aandacht vereisten. Ondanks deze moeilijkheden leverden de tests waardevolle feedback op voor de verdere ontwikkeling van het project.
-
-Tegenover deze uitdagingen stonden verschillende positieve ervaringen. Het uitwerken van het finale prototype en de bijhorende applicatie verliep succesvol. Daarnaast boden de workshops tijdens de lessen nuttige ondersteuning, waardoor zowel de documentatie als het opstellen ervan vlot konden worden afgewerkt. Dankzij de opgedane ervaring uit het eerste semester kon het team efficiënter werken en het project succesvol afronden.
-
-
+**Conclusie**
+Het was een intensief en leerzaam traject met de nodige drempels op het gebied van planning en techniek. Doordat we als team onze aanpak continu wisten bij te sturen, hebben we het project echter succesvol kunnen afronden. We zijn dan ook erg blij met en trots op het eindresultaat dat we hebben neergezet.
 
 ## Noot inzake het gebruik van AI
-AI werd gebruikt bij het opstellen van de projectdocumentatie. Het ondersteunde bij het nakijken van spelling en grammatica en bij het samenvatten van uitgebreide teksten. Op die manier bleef de documentatie helder, overzichtelijk en vlot leesbaar. Alle aanpassingen die door AI werden voorgesteld, zijn zorgvuldig gecontroleerd en indien nodig aangepast, zodat de inhoud correct bleef.
+Bij het opstellen van de projectdocumentatie is AI als hulpmiddel ingezet. Het bood ondersteuning bij het controleren van spelling en grammatica, en bij het samenvatten van uitgebreide teksten. Hierdoor is de documentatie helder, overzichtelijk en vlot leesbaar gebleven. Daarnaast is AI gebruikt om snel visuele conceptbeelden te genereren. Alle door AI gegenereerde output en voorgestelde aanpassingen zijn steeds kritisch geëvalueerd en waar nodig handmatig bijgestuurd, om de inhoudelijke correctheid te garanderen
 
 ## Bijlagen
 ### Discovery

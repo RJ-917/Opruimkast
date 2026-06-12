@@ -68,7 +68,7 @@ Tijdens de tests in het tweede semester liepen we af en toe tegen technische pro
 Een groot pluspunt gedurende het hele project was het vlotte verloop van de documentatie. De voorbereiding was goed en door een heldere taakverdeling bleef alles netjes en overzichtelijk. In het tweede semester boden de workshops tijdens de lessen nuttige ondersteuning om dit vlot af te ronden. Ook de ontwikkeling van het finale prototype en de bijbehorende applicatie verliep zeer succesvol.
 
 **Conclusie**
-Het was een intensief en leerzaam traject met de nodige drempels op het gebied van planning en techniek. Doordat we als team onze aanpak continu wisten bij te sturen, hebben we het project echter succesvol kunnen afronden. We zijn dan ook erg blij met en trots op het eindresultaat dat we hebben neergezet.
+Het was een intensief en leerzaam ervaring met de nodige drempels op het gebied van planning en techniek. Doordat we als team onze aanpak continu wisten bij te sturen, hebben we het project echter succesvol kunnen afronden. We zijn dan ook erg blij met en trots op het eindresultaat dat we hebben neergezet.
 
 ## Noot inzake het gebruik van AI
 Bij het opstellen van de projectdocumentatie is AI als hulpmiddel ingezet. Het bood ondersteuning bij het controleren van spelling en grammatica, en bij het samenvatten van uitgebreide teksten. Hierdoor is de documentatie helder, overzichtelijk en vlot leesbaar gebleven. Daarnaast is AI gebruikt om snel visuele conceptbeelden te genereren. Alle door AI gegenereerde output en voorgestelde aanpassingen zijn steeds kritisch geëvalueerd en waar nodig handmatig bijgestuurd, om de inhoudelijke correctheid te garanderen

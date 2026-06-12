@@ -27,11 +27,11 @@ Voor de prototypes in wave 1 en wave 2 werd gekozen voor een doos uit de IKEA TR
 In wave 1 werden verschillende openingsmechanismen getest op basis van de IKEA TROFAST-kast. De prototypes werden gelasercut uit MDF en multiplex op basis van exacte afmetingen. Bewegende onderdelen werden met scharnieren gemonteerd.
 
 **Geteste mechanismen:**
-- Schuifopening  
-- Terugtrek-scharnier  
 - Dubbele scharnieropening  
 - Enkele scharnieropening  
+- Schuifopening  
 - Originele IKEA-deksel  
+- Terugtrek-scharnier 
 
 Hierbij testen de kinderen de mechanismes door per mechanisme het te openen er speelgoed in te leggen en hierna het mechanisme te sluiten.
 

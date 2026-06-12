@@ -6,19 +6,19 @@ Tijdens het tweede semester lag dit bij de **Develop** en **deliver** fases.
   <img src="../img/methodologie flowchart.png" width="800" 
 </p>
 
-### Discover: Probleem zoeken
+### Discover: Probleem onderzoeken
 Tijdens de Discovery-fase werd opvoedstress onderzocht via benchmarkonderzoek (N=15), literatuuronderzoek (N=10) en gebruikersinterviews (N=3). De benchmarking en literatuurstudie brachten de oorzaken van opvoedstress en bestaande oplossingen in kaart, terwijl de interviews inzicht gaven in de ervaringen van ouders. Hieruit bleek dat tijdsdruk, vermoeidheid en de combinatie van werk en gezin belangrijke stressfactoren zijn.
 
 De verzamelde inzichten werden geanalyseerd en vergeleken, waarna de eerste ontwerpideeën werden ontwikkeld. Dit resulteerde in een eerste storyboard, pitch en een reeks ontwerpvereisten, waaronder het stimuleren van zelfstandig opruimen door kinderen en het verminderen van de belasting voor ouders.
 
-### Define: concept valideren
+### Define: Concept validatie
 Tijdens de definitiefase lag de focus op het testen van het gekozen concept en het verkennen van verschillende uitvoeringen ervan. Aanvankelijk werd te sterk gefocust op technische oplossingen in plaats van op de kern van het concept. Daarom werden via gebruikerstests met kinderen verschillende openings- en kastmechanismen onderzocht aan de hand van prototypes gebaseerd op de IKEA TROFAST-kast.
 
 De tests maakten duidelijk dat de benodigde kracht en tactiele interacties afgestemd moeten zijn op de fysieke mogelijkheden van kinderen. Daarnaast bleek dat kinderen veel ruwer omgaan met het product dan oorspronkelijk verwacht, waardoor robuustheid een belangrijke ontwerpvereiste werd. Klassieke rails- en dekselsystemen bleken moeilijk bruikbaar, terwijl eenvoudige, speelse interacties en duidelijke visuele feedback beter werden ontvangen.
 
 Deze fase resulteerde in een eerste reeks design requirements rond gebruiksgemak, veiligheid, robuustheid en speelsheid. Hoewel sommige van deze vereisten later werden herzien omdat ze te sterk vanuit de technische uitwerking vertrokken, vormden ze een basis voor de verdere ontwikkeling .
 
-### Develop 1
+### Develop 1: Ontwerpkeuzes
 Tijdens Develop 1 werd het concept opnieuw geanalyseerd om de kern van het product duidelijk vast te leggen. De focus lag op het bepalen van de value promise, de MVP en de essentiële functies. Hiervoor werd oeen storyboard, user-flow en productarchitectuur opgesteld.
 
 Via interviews met ouders werd onderzocht welke functies het meest waardevol waren en welke onderdelen overbodig bleken uit het huidige ontwerp. Hieruit bleek dat het stimuleren van zelfstandig opruimen door kinderen, en zo tijd besparen voor ouders, de belangrijkste value promise is. Ook het beperken van de hoeveelheid speelgoed waarmee tegelijk gespeeld kan worden werd als waardevol beschouwd.
@@ -26,7 +26,7 @@ Via interviews met ouders werd onderzocht welke functies het meest waardevol war
 Deze inzichten leidden tot een duidelijker storyboard, een scherpere productvisie en een nieuw concept: een lage speelgoedkast met afzonderlijke bakken, ondersteund door licht- en geluidsfeedback.
 
 
-### Develop 2
+### Develop 2: Antropometrische analyse & usability goals
 in deze fase lag de focus op het sturen van opruimgedrag via sensorische feedback. Uit interviews met o.a. een crèchebegeleider en kleuterjuf werden strategieën gehaald om opruimen speels en gestuurd te maken.
 
 De interface werd ontworpen op basis van cognitieve eenvoud en directe begrijpbaarheid, zonder complexe digitale interpretaties. De visuele feedback werd uitgewerkt als een LED-interface met kleurcodering en subtiele schaalverdeling, aangevuld met positieve beloning bij volledig opruimen.

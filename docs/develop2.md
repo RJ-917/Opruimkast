@@ -125,11 +125,26 @@ Voor oudere kinderen met langere armen en grotere handen is er voldoende ruimte 
 </p>
 
 
-## Usertest
-Uit de inzichten van het antropometrische en cognitieve analyse hebben we zijn we begonnen aan een finalere versie van ons prototype.
-hierbij hebben we als main focus losse een lestrip gepaatst hierme hebben we de verschillende visualieseringen gestest bij de kinder om zo te zien welke de kinder het best begrepen op basis van of dat zij de taak die ze hadden konder uitvoeren.
-uit eerste intervieuw:
-uit het tweede intervieuw:
-uit het derde interviuw: 
+## Gebruikerstest Visuele Feedback (Prototype)
 
+In deze testfase lag de focus op het fysiek evalueren van de externe LED-strip. Via verschillende visuele weergaves testten we welke signalen kinderen intuïtief begrepen en of dit hen hielp om de opruimtaak zelfstandig af te ronden.
+
+Uit de observaties kwamen de volgende kernthema's naar voren:
+
+### 1. LED-Feedback & Visuele Interface
+* **Positie & Vorm:** Een verticale LED-balk aan de buitenkant van de kast werkt het meest intuïtief.
+* **Cognitieve Capaciteit:** Complexe segmentering, kleurcodes (zoals rood voor 'fout') of abstracte begrippen ('meer/minder') zijn verwarrend voor kleuters. De app moet de complexiteit van de patronen kunnen afstemmen op de leeftijd van het kind.
+* **Tijdsaanduiding:** LEDs zijn ongeschikt als timer; dit werkt beter via auditieve signalen of direct in de app voor de ouders.
+
+### 2. Motivatie & Beloning
+* **Externe Triggers:** Omdat intrinsieke motivatie om op te ruimen vaak ontbreekt, zijn externe prikkels cruciaal.
+* **Geluidsfeedback:** Positieve auditieve bevestiging (een feestelijk geluid of *"Je bent er bijna!"*) werkt zeer motiverend.
+* **Gamificatie:** Een overkoepelend spaarsysteem (bijv. 10 digitale sterren verzamelen voor een fysieke beloning) vormt een sterke drijfveer.
+
+### 3. Fysieke Interactie & 'De Knop'
+* **Functie van de Knop:** Een fysieke actieknop is handig om stilletjes een thuiswerkende ouder te waarschuwen via de app of om het spel te hervatten na een fout. Er is wel een risico dat jonge kinderen de knop onnodig gaan 'spammen'.
+* **Robuustheid & Frustratie:** Het systeem moet frictieloos en stevig zijn. Kinderen raken snel gefrustreerd als een bak onverwacht blokkeert of omvalt tijdens het spelen.
+
+### 4. Toegankelijkheid (Accessibility)
+* Een onverwacht voordeel: de sterke visuele lichtsignalen op de kast, gecombineerd met de app-notificaties, maken het systeem uiterst geschikt voor dove of slechthorende ouders.
 

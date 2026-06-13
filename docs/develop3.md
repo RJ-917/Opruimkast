@@ -109,13 +109,13 @@ Deze CMF-richting vormt de basis voor verdere varianten en beperkte personalisat
 
 Op basis van bestaande stijlen van producten hebben we de volgende renders gerealiseerd. Deze zijn grotendeels geïnspireerd op het benchmark-gedeelte van de CMF-analyse. Ze dienen als visueel hulpmiddel voor de gebruiker om een beter beeld te krijgen van de keuzes en hoe het product er in een huishoudelijke omgeving uit zou zien.
 
-> *[Voeg hier Render Style 1 toe]*
-> 
-> *[Voeg hier Render Style 2 toe]*
-> 
-> *[Voeg hier Render Style 3 toe]*
-> 
-> *[Voeg hier Render Style 4 toe]*
+<p align="center">
+  <img src="../img/CMF_V1.png" width="500">
+  <img src="../img/CMF_V2.png" width="500">
+  <img src="../img/CMF_V3.png" width="500">
+  <img src="../img/CMF_V4.png" width="500">
+  <img src="../img/CMF_V5.png" width="500">
+</p>
 
 
 ## Gebruikerstest Finaal Prototype
@@ -123,12 +123,18 @@ Op basis van bestaande stijlen van producten hebben we de volgende renders gerea
 ### Projectcontext en Prototype Ontwikkeling
 Om de meest waardevolle inzichten uit deze evaluatiefase te halen, is het eerdere prototype doorontwikkeld en voorzien van een hoogwaardigere afwerking. Daarnaast is er een [interactieve app ontworpen](app_uitleg.md) om de totaalervaring van het uiteindelijke product zo realistisch mogelijk te simuleren.
 
-> **[Voeg hier de uitleg over de veranderingen van het prototype toe]**
-> 
-> *[Voeg hier foto's van het finale prototype toe]*
+<p align="center">
+    <img src="../img/app_interface.png" width="250
+    ">
+</p>
 
 Met dit finale prototype zijn we bij de eindgebruikers langsgegaan om de laatste inzichten op te halen en het product verder te verfijnen. Het doel van deze test was om de bruikbaarheid van de app voor ouders en de motiverende impact van de gamificatie (scherm, thema's en timers) voor kinderen te evalueren.
 
+<p align="center">
+    <img src="../img/finaalprototype_3.jpeg" width="500">
+  <img src="../img/finaalprototype_2.jpeg" width="500">
+  <img src="../img/finaalprototype_1.jpeg" width="500">
+</p>
 
 
 ### Onderzoeksmethode (Protocol)

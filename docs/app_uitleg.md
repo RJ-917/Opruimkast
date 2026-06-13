@@ -4,7 +4,7 @@ De PlayClean-app is geïnspireerd op de interfaces van vertrouwde applicaties zo
 
 Via de onderstaande link kun je het prototype bekijken en de interacties zelf uittesten in je browser of op je smartphone. **Let op:** dit is een gedeeltelijk uitgewerkt prototype. De belangrijkste functionaliteiten zijn gedetailleerd genoeg om te testen, maar het is nog geen volledig werkende applicatie. Het prototype en de bijbehorende code zijn tot stand gekomen door een combinatie van Figma-Make en Gemini.
 
-**[Klik hier om het prototype van de PlayClean app te openen](playclean-app.netlify.app)**
+👉 **[Klik hier om het prototype van de PlayClean app te openen](https://playclean-app.netlify.app)**
 
 
 

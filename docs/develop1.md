@@ -1,18 +1,15 @@
 ## Develop 1 
-Voor deze fase van het project waren er een aantal moelijk te definieren overbodigheden in ons product.
-Dit kwam voornamelijk doordat er nog geen value promise was vastgelegd wat er voor zorgde dat het product veel verschillende kanten konden uit gaan.
-Hierdoor was het niet duidelijk was wat de volgende stap in het ontwikkelingsproces van het product was.
+Aan de start van deze fase bevatte het product nog een aantal moeilijk te definiëren overbodigheden. Dit kwam voornamelijk omdat de *value promise* nog niet scherp was vastgelegd, waardoor het product te veel verschillende kanten op kon gaan. Hierdoor was de volgende stap in het ontwikkelingsproces onduidelijk.
 
-Het doel voor deze fase van het project is om het product voledig te ontleden doormiddel van een storyboard, user-flow en nog een paar andere methoden.
-Daarnaast gaan we doormiddel van intervieuws de overbodigheden bepalen en bij onze gebruikers toetsen wat zij de belangrijkste value promise vinden van ons product.
-Eenmaal al deze info verzameld en gestructureerd is zal op basis van de info een morfologische matrix opgesteld worden en een nieuw consept uitgewerkt worden.
+Het doel van deze fase is om het product volledig te ontleden met behulp van storyboards, user-flows en aanvullende methoden. Daarnaast gebruiken we interviews om overbodige functies te bepalen en bij gebruikers te toetsen wat zij de belangrijkste *value promise* vinden. Zodra al deze informatie is verzameld en gestructureerd, stellen we een morfologische matrix op om een nieuw concept uit te werken.
 ### Product analyse
 #### Storyboard
-Na een verdere analyse van het probleem en de bijhorende voorwaarden werd het storyboard aangepast. Het nieuwe storyboard legt meer nadruk op de interactie met het product en schetst duidelijker de context waarin het product gebruikt wordt.
+Na een verdere analyse van het probleem en de bijbehorende voorwaarden is het storyboard aangepast. Het nieuwe storyboard legt meer nadruk op de interactie met het product en schetst een duidelijker beeld van de context waarin het wordt gebruikt.
 <p align="left">
   <img width="1170" height="420" alt="image" src="https://github.com/user-attachments/assets/20b0fa40-44f2-4c61-ba8f-c767f5d9623a" />
 </p>
-(opdelen in 2 delen, clean up storyboard is belangrijker)
+Volgende zijn de 10 verschillende stappen uit het nieuwe storyboard:
+
 1) De vloer ligt vol met speelgoed
 2) De ouder bestuurt de kast via een app op de smartphone
 3) Er wordt een foto genomen van het speelgoed om het in de kast te registreren
@@ -40,28 +37,26 @@ Het interfaceschema toont de fysieke en elektronische verbindingen tussen de sys
 #### User-flow
 Deze userflow visualiseert het volledige interactieproces tussen het kind, de kast en het systeem tijdens het spelen en opruimen. Het schema doorloopt de stappen die het kind kan nemen tijdens het gebruik van het product en toont daarnaast de mogelijke controles en reacties van het systeem. Hierdoor wordt duidelijk hoe het kind stap voor stap door het systeem wordt geleid tijdens het spelen en het opruimen van het speelgoed.
 <p align="left">
-<img width="5128" height="6116" alt="image" src="https://github.com/user-attachments/assets/0f6eeb70-2f2d-4bc6-b77a-3ac029f1f122" />
+<img src="../img/user_flow.png" width="800" />
 </p>
 
-#### MVP defenitie
-De minimum viable product van ons project is een kast die is onderverdeeld in verschillende bakken/vakken. Deze kast moet gevuld en ingesteld worden door een ouder. Achter dat een ouder de kast heeft ingesteld zou de kast zelfstandig moeten kunnen gebruikt worden door het kind. Het kind moet enkel kunnen spelen met speelgoed uit de bak dat het kind mee aan het spelen is. Pas als het kind het speelgoed dat in deze bak zat opruimt dan kan het kind met speelgoed uit een andere bak spelen.
+#### MVP-definitie
+Het Minimum Viable Product (MVP) van ons project is een kast die is onderverdeeld in verschillende bakken. Deze kast wordt gevuld en ingesteld door de ouder. Nadat de ouder de kast heeft ingesteld, kan het kind deze volledig zelfstandig gebruiken. Het kind kan enkel spelen met het speelgoed uit de bak die op dat moment open is. Pas wanneer dit speelgoed weer netjes is opgeruimd, kan het kind een andere bak openen om met nieuw speelgoed te spelen.
 
 ### Interviews
-Toen we ons product waren aan het ontleden hebben we onder vonden dat we niet echt wisten wat de belangrijkste functies van ons product zijn voor de ouders. Ons doel van deze interviews is om te weten te komen wat de ouders het belangrijkste vinden.
-Daarnaast gaan we doormiddel van hun feedback de zaken die onnodig zijn eruit halen.
-Ook zullen we vragen achter hun ervaring om te weten te komen welke opruim strategieën het best werken.
+Toen we ons product waren aan het ontleden hebben we onder vonden dat we niet echt wisten wat de belangrijkste functies van ons product zijn voor de ouders. Om een beter idee te krijgen over welke functie de ouders belangrijk vinden werden enkele interviews uitgevoerd. Met hun feedback gingen we aan de slag om overbodige functies uit het concept te halen. Tenslotte werd bevraagd welke opruim-strategieën zij zelf gebruikten"
 
 [interview protocol & report](https://ugentbe-my.sharepoint.com/:w:/r/personal/arthur_verhaeghe_ugent_be/Documents/J%202025-2026/project%20gebruiksgericht%20ontwerpen/develop1.docx?d=w6168b8493fe04b6f912cd4a38d781c14&csf=1&web=1&e=qze038)
 
 
 #### value promise
-Omdat ons product verschillende mogelijke value promises had, hebben we deze voorgelegd aan de doelgroep. De respondenten rangschikten de value promises van meest naar minst belangrijk. Dit gaf ons inzicht in welke aspecten zij het meest waardevol vonden. Deze resultaten gebruikten we vervolgens als basis om zelf een uiteindelijke rangschikking te bepalen en zo een duidelijke richting voor het product te kiezen. De value promises zijn als volgt geordend:
+ De verschillende mogelijke value promises werden aan de respondenten voorgelegd. De respondenten rangschikten de value promises van meest naar minst belangrijk. Dit gaf ons inzicht in welke aspecten zij het meest waardevol vonden. Deze resultaten werden vervolgens gebruikt om de finale rangschikking van de value promises te bepalen. De volgorde gaat als volgt :
 
-1) Een product dat tijd bespaart voor de ouder door het kind meer autonoom te doen opruimen
-2) Een product dat ervoor zorgt dat er een maximum hoeveelheid rommel is door het kind maar met een beperkte hoeveelheid speelgoed te gelijkertijd te laten spelen
-3) Een product dat tijd bespaart voor de ouder door het kind meer autonoom te doen opruimen
-4) Rommel snel en eenvoudig doen verbergen 4)Een product dat ervoor zorgt dat het kind meer opruimd door opruimen leuker te maken
-5) Een product dat een ouder meer controle geef wanneer en met welk speelgoed het kind speelt
+1. Een product dat de ouder tijd bespaart door het kind autonomer te laten opruimen.
+2. Een product dat de maximale hoeveelheid rommel beperkt, zodat het opruimen behapbaar blijft.
+3. Een product waarmee rommel snel en eenvoudig uit het zicht kan worden gewerkt.
+4. Een product dat het kind stimuleert om meer op te ruimen door het proces leuker te maken.
+5. Een product dat de ouder meer controle geeft over wanneer en met welk speelgoed het kind speelt.
 
 ### Morfologiesche matrix
 <p align="left">

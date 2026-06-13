@@ -3,9 +3,9 @@ Tijdens deze fase werd een duidelijke probleemstelling gedefinieerd. Er werd ond
 
 
 ### Doestellingen
-Probleemstelling: Probleemstelling: Wat veroorzaakt opvoedstress bij ouders, hoe gaan zij hiermee om en op welke manier kan deze stress worden verminderd?
+Probleemstelling: Wat veroorzaakt opvoedstress bij ouders, hoe gaan zij hiermee om en op welke manier kan deze stress worden verminderd?
 
-In deze fase wilden we een beter inzicht krijgen in de oorzaken van opvoedstress en nagaan hoe deze problematiek het best kan worden aangepakt. Hiervoor werd gekeken naar bestaande producten en ondersteunende structuren.
+In deze fase wouden we een beter inzicht krijgen in de oorzaken van opvoedstress en nagaan hoe deze problematiek het best kan worden aangepakt. Hiervoor werd gekeken naar bestaande producten en ondersteunende structuren.
 
 
 ### Materiaal & methoden

@@ -1,6 +1,5 @@
 ## Methodologie
-Het ontwerpproces van **PlayClean** werd opgebouwd volgens een gestructureerde **Triple Diamond-model**. Tijdens het eerste semester lag de focus op de fasen **Discover** en **Define**.
-Tijdens het tweede semester lag dit bij de **Develop** en **deliver** fases.
+Het ontwerpproces van **PlayClean** werd opgebouwd volgens een gestructureerd **Triple Diamond-model**. Tijdens het eerste semester lag de focus op de fasen **Discover** en **Define**. Tijdens het tweede semester lag de nadruk op de fasen **Develop** en **Deliver**.
 
 <p align="center">
   <img src="../img/methodologie flowchart.png" width="800" 
@@ -19,7 +18,7 @@ De tests maakten duidelijk dat de benodigde kracht en tactiele interacties afges
 Deze fase resulteerde in een eerste reeks design requirements rond gebruiksgemak, veiligheid, robuustheid en speelsheid. Hoewel sommige van deze vereisten later werden herzien omdat ze te sterk vanuit de technische uitwerking vertrokken, vormden ze een basis voor de verdere ontwikkeling .
 
 ### Develop 1: Ontwerpkeuzes
-Tijdens Develop 1 werd het concept opnieuw geanalyseerd om de kern van het product duidelijk vast te leggen. De focus lag op het bepalen van de value promise, de MVP en de essentiële functies. Hiervoor werd oeen storyboard, user-flow en productarchitectuur opgesteld.
+Tijdens Develop 1 werd het concept opnieuw geanalyseerd om de kern van het product duidelijk vast te leggen. De focus lag op het bepalen van de value promise, de MVP(minimum value promise) en de essentiële functies. Hiervoor werd een storyboard, user-flow en productarchitectuur opgesteld.
 
 Via interviews met ouders werd onderzocht welke functies het meest waardevol waren en welke onderdelen overbodig bleken uit het huidige ontwerp. Hieruit bleek dat het stimuleren van zelfstandig opruimen door kinderen, en zo tijd besparen voor ouders, de belangrijkste value promise is. Ook het beperken van de hoeveelheid speelgoed waarmee tegelijk gespeeld kan worden werd als waardevol beschouwd.
 

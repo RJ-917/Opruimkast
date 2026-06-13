@@ -21,7 +21,7 @@ We zijn gestart met quick-and-dirty prototypes om snel inzicht te krijgen in de 
 
 <img width="1204" height="302" alt="eerst prototype" src="https://github.com/user-attachments/assets/ff196f03-836e-4460-a545-8ad759343ad8" />
 
-Voor de prototypes in wave 1 en wave 2 werd gekozen voor een doos uit de IKEA TROFAST-kast, aangezien het concept hierop gebaseerd is. Deze prototypes werden bewuster en meer afgewerkt dan het eerste prototype, met als doel een realistischer en visueel duidelijker product te testen bij gebruikers. Door de prototypes verder af te werken, konden de interacties en het gebruiksgemak beter geëvalueerd worden tijdens de usertests.
+Voor de prototypes in wave 1 en wave 2 werd gekozen voor een doos uit de IKEA TROFAST-kast, aangezien het concept hierop gebaseerd is. Deze prototypes waren beter afgewerkt dan het eerste versies. Zo konden we een realistischer product testen bij de gebruikers en de interacties en het gebruiksgemak veel beter evalueren.
 
 #### Wave 1 – Openingsmechanismen
 In wave 1 werden verschillende openingsmechanismen getest op basis van de IKEA TROFAST-kast. De prototypes werden gelasercut uit MDF en multiplex op basis van exacte afmetingen. Bewegende onderdelen werden met scharnieren gemonteerd.
@@ -76,7 +76,7 @@ De concepten werden geëvalueerd aan de hand van gebruikerstests, waarbij we dir
 Op basis van de usertests werden volgende designbeslissingen genomen:
 
 - De bak moet eenvoudig uit de kast te halen zijn via een duidelijk handvat aan de voorkant.
-- Het klassieke IKEA-rails- en dekselsysteem is ongeschikt voor jonge kinderen en moet een van de andere mechanisme gerbuikt worden.
+- Het klassieke IKEA-rails- en kastsysteem is ongeschikt voor jonge kinderen, waardoor er een van de andere mechanismen gebruikt moet worden.
 - Het ontwerp moet hoogteverschillen en wrijving minimaliseren (ramp of aangepaste bodem).
 - Wielen moeten multidirectioneel zijn of volledig vermeden worden.
 - Opruimen moet speels en motiverend zijn (bv. oprolmat, licht en geluid).

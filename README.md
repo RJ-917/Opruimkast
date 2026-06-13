@@ -13,7 +13,7 @@
 ## Samenvatting
 PlayClean is een slimme speelgoedkast die kinderen op een speelse en gestructureerde manier leert opruimen en bewuster laat spelen. Veel ouders ervaren frustratie door tijdsgebrek, vermoeidheid en een overvloed aan speelgoed. Kinderen raken hierdoor snel afgeleid en spelen minder geconcentreerd, terwijl ouders geconfronteerd worden met rommel en extra stress. Bestaande opbergoplossingen focussen vooral op opslag en ondersteunen het aanleren van opruimgedrag onvoldoende. PlayClean biedt een alternatief dat kinderen op een zelfstandige en speelse wijze motiveert om op te ruimen.
 
-De kast werkt met een ingebouwd vergrendelingssysteem waarbij slechts één compartiment tegelijk toegankelijk is. Pas wanneer dit vak volledig is opgeruimd, wordt het volgende ontgrendeld. Deze aanpak stimuleert het zelfstand opruimen bij de kinderen, zonder voortdurende tussenkomst van ouders. 
+De kast werkt met een ingebouwd vergrendelingssysteem waarbij slechts één compartiment tegelijk toegankelijk is. Pas wanneer dit vak volledig is opgeruimd, wordt het volgende ontgrendeld. Deze aanpak stimuleert het zelfstandig opruimen bij de kinderen, zonder voortdurende tussenkomst van ouders. 
 
 Het ontwerp van PlayClean is gebaseerd op literatuuronderzoek, benchmarking, interviews en gebruikerstesten met ouders, waarbij bijzondere aandacht is besteed aan gebruiksgemak, veiligheid en intuïtiviteit. Door zijn educatieve en gezinsgerichte aanpak ondersteunt PlayClean kinderen bij het zelfstandig uitvoeren van opruimtaken.
 

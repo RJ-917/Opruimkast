@@ -26,7 +26,7 @@ De kast moet vertrouwen en rust uitstralen voor ouders, en tegelijk uitnodigend 
 
 * Zachte, geometrische en licht afgeronde vormen
 * Neutraal basiskleurenpalet met beperkte accenten
-* Semi-transparante panelen zodat speelgoed zichtbaar blijft
+* Transparante panelen zodat speelgoed zichtbaar blijft
 
 
 ## Gebruikservaring

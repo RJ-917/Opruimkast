@@ -83,14 +83,14 @@ Tijdens gebruik moet de interactie intuïtief en prettig aanvoelen:
 
 | Dimensie | Optie A | Optie B | Optie C | Gekozen richting |
 |---|---|---|---|---|
-| **Kleur basis** | Volledig wit | Zachtgrijs + houtaccenten | Naturel hout | **Zachtgrijs + houtaccenten** |
+| **Kleur basis** | Volledig wit | Zachte kleuern + houtaccenten | Naturel hout | **Zachte kleuren + houtaccenten** |
 | **Accentkleur** | Geen accent | Felle primaire kleuren | Pastel + warme tinten | **Pastel + warme tinten** |
 | **Materiaal** | MDF gelakt | Massief hout | Multiplex | **Multiplex + matte afwerking** |
-| **Transparantie**| Dicht | Volledig transparant | Semi-transparant frosted | **Semi-transparant frosted** |
+| **Transparantie**| Dicht | Volledig transparant | Semi-transparant frosted | **Volledig transparant** |
 | **Afwerking** | Hoogglans | Zijdeglans | Mat | **Mat** |
 | **Hoeken** | Scherp | Volledig afgerond | Licht afgerond | **Licht afgerond** |
 | **Grip** | Glad | Rubber | Zachte matte coating | **Zachte matte coating** |
-| **Interactie** | Geen | Volledig krijtbordvlak | Beperkt krijtbordvlak | **Beperkt krijtbordvlak** |
+
 
 
 ## Conclusie CMF

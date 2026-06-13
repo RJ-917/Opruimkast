@@ -52,9 +52,10 @@ General, O. O. T. S. (2024). The Current State of Parental Stress & Well-Being. 
 4. [Develop 1](./docs/develop1.md)
 5. [Develop 2](./docs/develop2.md)
 6. [Develop 3](./docs/develop3.md)
-7. [Design Requirements](./docs/design_requirements.md)
-8. [Bill of materials](./docs/bom.md)
-9. [Conclusie](./docs/conclusie.md)
+7. [Conclusie](./docs/conclusie.md)
+8. [Design Requirements](./docs/design_requirements.md)
+9. [Bill of materials](./docs/bom.md)
+10. [PlayClean app](./docs/app_uitleg.md)
 
 ## Kritische reflectie
 **Samenwerking en planning**

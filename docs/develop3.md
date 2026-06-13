@@ -148,7 +148,15 @@ Er zijn [fysieke gebruikerstests](../reports%20and%20protocols/develop3.pdf) uit
 
 #### 1. Impact op het Kind (Gamificatie)
 * **Thema's en Animaties:** Visuele thema's (zoals racecircuits of prinsessen) en belonende eindanimaties verhogen de betrokkenheid aanzienlijk. Er is wel behoefte aan diversiteit om alle leeftijden aan te spreken.
+<p align="center">
+  <img src="../img/scherm1.jpeg" width="500">
+  <img src="../img/scherm2.jpeg" width="500">
+  <img src="../img/scherm3.jpeg" width="500">
+</p>
+
 * **Race tegen de klok:** De timer-functie is zeer effectief bij oudere kinderen en versnelt het opruimen sterk (wat soms leidt tot te wild opruimen), maar heeft vrijwel geen effect op de jongste deelnemers (3 jaar).
+
+
 
 #### 2. Hardware en Ontwerp (CMF)
 * **Uitstraling:** De verbeterde afwerking, materialen en kleuren van het finale prototype worden als aantrekkelijk ervaren door de gebruikers.

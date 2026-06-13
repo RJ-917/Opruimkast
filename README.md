@@ -76,9 +76,9 @@ Bij het opstellen van de projectdocumentatie is AI als hulpmiddel ingezet. Het b
 
 ## Bijlagen
 ### Discovery
-* Literatuuronderzoek(rapport en protocol staan in hetzelfde document) (N=10)
-  * [Protocol](https://ugentbe-my.sharepoint.com/:w:/r/personal/rahul_jaswal_ugent_be/Documents/opvoedstress/literatuur%20revieuw%20-%20protocol.docx?d=wa329b888aa3d47569299737bf8714845&csf=1&web=1&e=ysp6aQ)
-  * [Rapport](https://ugentbe-my.sharepoint.com/:w:/r/personal/rahul_jaswal_ugent_be/Documents/opvoedstress/literatuur%20revieuw%20-%20protocol.docx?d=wa329b888aa3d47569299737bf8714845&csf=1&web=1&e=ysp6aQ)
+* Literatuuronderzoek (N=10)
+  * [Interview protocol & rapport](https://ugentbe-my.sharepoint.com/:w:/r/personal/rahul_jaswal_ugent_be/Documents/opvoedstress/literatuur%20revieuw%20-%20protocol.docx?d=wa329b888aa3d47569299737bf8714845&csf=1&web=1&e=ysp6aQ)
+
   
 * Interviews (N=3)
   * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/arthur_verhaeghe_ugent_be/IQDf5vWo4QKQRbKTjYAPA4R_ARvE_7IF0I8zuInExM05EB8?e=hHYlsI)
@@ -92,15 +92,31 @@ Bij het opstellen van de projectdocumentatie is AI als hulpmiddel ingezet. Het b
 ### Definition
 Beide waves staan in hetzelfde document
 * User testing wave 1 (N=5)
-  * [Protocol](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292869/Gedeelde%20documenten/General/Usertests.docx?d=w31392e206cef4974a2297ca3149371f9&csf=1&web=1&e=caaj3m)
-  * [Rapport](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292869/Gedeelde%20documenten/General/Usertests.docx?d=w31392e206cef4974a2297ca3149371f9&csf=1&web=1&e=caaj3m)
+  * [Interview protocol & rapport](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292869/Gedeelde%20documenten/General/Usertests.docx?d=w31392e206cef4974a2297ca3149371f9&csf=1&web=1&e=caaj3m)
+
 * User testing wave 2 (N=5)
-  * [Protocol](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292869/Gedeelde%20documenten/General/Usertests.docx?d=w31392e206cef4974a2297ca3149371f9&csf=1&web=1&e=caaj3m)
-  * [Rapport](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292869/Gedeelde%20documenten/General/Usertests.docx?d=w31392e206cef4974a2297ca3149371f9&csf=1&web=1&e=caaj3m)
+  * [Interview protocol & rapport](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292869/Gedeelde%20documenten/General/Usertests.docx?d=w31392e206cef4974a2297ca3149371f9&csf=1&web=1&e=caaj3m)
+
 
 ### Definition
 * Interviews (N=2)
-  * [interview protocol & report](https://ugentbe-my.sharepoint.com/:w:/r/personal/arthur_verhaeghe_ugent_be/Documents/J%202025-2026/project%20gebruiksgericht%20ontwerpen/develop1.docx?d=w6168b8493fe04b6f912cd4a38d781c14&csf=1&web=1&e=qze038)
+  * [Interview protocol & rapport](https://ugentbe-my.sharepoint.com/:w:/r/personal/arthur_verhaeghe_ugent_be/Documents/J%202025-2026/project%20gebruiksgericht%20ontwerpen/develop1.docx?d=w6168b8493fe04b6f912cd4a38d781c14&csf=1&web=1&e=qze038)
+
+### Develop 1
+* User testing (N=2)
+  * [protocol & rapport](<./reports and protocols/develop1.docx>)
+
+### Develop 2
+* User testing (N=3)
+  * [protocol & rapport](<./reports and protocols/develop2.docx>)
+
+
+### Develop 3
+* CMF benchmarking (N=8)
+  * [protocol & rapport](<./reports and protocols/CMF analyse.pdf>)
+* CMF intervieuw (N=3)
+  * [protocol & rapport](<./reports and protocols/develop3.pdf>)
+
 ## Licentie
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
 

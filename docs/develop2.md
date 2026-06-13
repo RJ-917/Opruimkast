@@ -127,7 +127,7 @@ Voor oudere kinderen met langere armen en grotere handen is er voldoende ruimte 
 
 ## Gebruikerstest Visuele Feedback (Prototype)
 
-In deze testfase lag de focus op het fysiek evalueren van de externe LED-strip. Via verschillende visuele weergaves testten we welke signalen kinderen intuïtief begrepen en of dit hen hielp om de opruimtaak zelfstandig af te ronden.
+In deze testfase lag de focus op het [fysieke gebruikerstests](../reports%20and%20protocols/develop2.docx) van de externe LED-strip. Via verschillende visuele weergaves testten we welke signalen kinderen intuïtief begrepen en of dit hen hielp om de opruimtaak zelfstandig af te ronden.
 
 Uit de observaties kwamen de volgende kernthema's naar voren:
 

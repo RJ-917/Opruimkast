@@ -102,7 +102,7 @@ De Playclean speelgoedkast balanceert op vier assen:
 * **Gebruik:** Zelfstandig en intuïtief gedrag stimuleren.
 * **Emotie:** Rust voor ouders, speelsheid voor kinderen.
 
-Deze CMF-richting vormt de basis voor verdere varianten en beperkte personalisatieopties binnen het ontwerp.
+Deze CMF-richting vormt de basis voor verdere varianten en beperkte personalisatieopties binnen het ontwerp. Het uitgebreide document is hier te vinden: [CMF](../reports%20and%20protocols/CMF%20analyse.docx)
 
 
 ## Visuele Uitwerking en Renders
@@ -121,7 +121,7 @@ Op basis van bestaande stijlen van producten hebben we de volgende renders gerea
 ## Gebruikerstest Finaal Prototype
 
 ### Projectcontext en Prototype Ontwikkeling
-Om de meest waardevolle inzichten uit deze evaluatiefase te halen, is het eerdere prototype doorontwikkeld en voorzien van een hoogwaardigere afwerking. Daarnaast is er een interactieve app ontworpen om de totaalervaring van het uiteindelijke product zo realistisch mogelijk te simuleren
+Om de meest waardevolle inzichten uit deze evaluatiefase te halen, is het eerdere prototype doorontwikkeld en voorzien van een hoogwaardigere afwerking. Daarnaast is er een [interactieve app ontworpen](app_uitleg.md) om de totaalervaring van het uiteindelijke product zo realistisch mogelijk te simuleren.
 
 > **[Voeg hier de uitleg over de veranderingen van het prototype toe]**
 > 
@@ -132,7 +132,7 @@ Met dit finale prototype zijn we bij de eindgebruikers langsgegaan om de laatste
 
 
 ### Onderzoeksmethode (Protocol)
-Er zijn fysieke gebruikerstests uitgevoerd met het finale prototype bij drie gezinnen met kinderen in de leeftijd van 3 tot 10 jaar. De test bestond uit twee delen:
+Er zijn [fysieke gebruikerstests](../reports%20and%20protocols/develop3.docx) uitgevoerd met het finale prototype bij drie gezinnen met kinderen in de leeftijd van 3 tot 10 jaar. De test bestond uit twee delen:
 
 * **Kinderen:** Observatie van hun opruimgedrag via de speelgoedkast, waarbij de invloed van verschillende thema's, animaties en een 'race tegen de klok'-timer werd getest.
 * **Ouders:** Taakgerichte observatie waarbij ouders specifieke instellingen (zoals timers en kalibratie) in de app moesten uitvoeren, gevolgd door evaluatievragen over hun ervaring en behoeften.

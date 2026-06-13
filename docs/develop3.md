@@ -41,7 +41,7 @@ Tijdens gebruik moet de interactie intuïtief en prettig aanvoelen:
 
 | Element | Functie |
 |---|---|
-| **Zachtgrijs / gebroken wit** | Rust, tijdloosheid, integratie in interieur |
+| **Zacht kleuren / gebroken wit** | Rust, tijdloosheid, integratie in interieur |
 | **Houtaccenten** | Warmte en duurzaamheid |
 | **Pastel accenten** | Subtiele speelsheid |
 | **Transparant paneel** | Zichtbaarheid van de inhoud |

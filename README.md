@@ -104,19 +104,21 @@ Beide waves staan in hetzelfde document
 
 ### Develop 1
 * User testing (N=2)
-  * [protocol & rapport](<./reports and protocols/develop1.docx>)
+  * [Protocol & rapport](<./reports and protocols/develop1.docx>)
 
 ### Develop 2
 * User testing (N=3)
-  * [protocol & rapport](<./reports and protocols/develop2.docx>)
+  * [Protocol & rapport](<./reports and protocols/develop2.docx>)
 
 
 ### Develop 3
 * CMF benchmarking (N=8)
-  * [protocol & rapport](<./reports and protocols/CMF analyse.pdf>)
+  * [Protocol & rapport](<./reports and protocols/CMF analyse.pdf>)
 * CMF intervieuw (N=3)
-  * [protocol & rapport](<./reports and protocols/develop3.pdf>)
+  * [Protocol & rapport](<./reports and protocols/develop3.pdf>)
 
+### Figma bord
+* [Link naar ons figma bord](https://www.figma.com/board/U4iJqrhtkUn5dd3prFHBgz/clean-play-figma?node-id=353-1942&t=t9F0G3C8jFpZ2CNF-1)
 ## Licentie
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
 
